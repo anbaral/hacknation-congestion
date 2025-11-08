@@ -1,0 +1,1905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.960611032197865,
+          49.60716370557338
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-055079--vi-fbm.2025-11-20_21-45-00-000.devi-fbm.2025-11-20_21-45-00-000.de0",
+        "title": "A1 | Nonnweiler-Bierfeld - Hermeskeil",
+        "subtitle": " Saarbrücken -> Trier",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 20.11.25 von 21:45 bis 24:00 Uhr (Ende der Gesamtmaßnahme: 21.11.25)  A1: Saarbrücken -> Trier, zwischen AS Nonnweiler-Bierfeld und 1.5 km vor AS Hermeskeil  Länge: konnte nicht ermittelt werden  A1 Sperrung Richtungsfahrbahn",
+        "start_timestamp": null,
+        "extent": "49.60716370557338,6.960611032197865,49.64510451030912,6.926757990445733",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.960611032197865,
+          49.60716370557338
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-055077--vi-fbm.2025-11-11_00-00-00-000.devi-fbm.2025-11-11_00-00-00-000.de0",
+        "title": "A1 | Nonnweiler-Bierfeld - Hermeskeil",
+        "subtitle": " Saarbrücken -> Trier",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 11.11.25 von 00:00 bis 02:30 Uhr (Ende der Gesamtmaßnahme: 11.11.25)  A1: Saarbrücken -> Trier, zwischen AS Nonnweiler-Bierfeld und 1.5 km vor AS Hermeskeil  Länge: konnte nicht ermittelt werden  A1 Sperrung Richtungsfahrbahn",
+        "start_timestamp": null,
+        "extent": "49.60716370557338,6.960611032197865,49.64510451030912,6.926757990445733",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82050231096643,
+          50.77197187706455
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2024-032543--vi-fbm.2025-11-11_21-00-00-000.devi-zus.2024-04-06_09-00-00-000.f_001.de25",
+        "title": "A1 | Erftstadt - Weilerswist-West",
+        "subtitle": " Köln -> Euskirchen",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 11.11.25 21:00 bis zum 12.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 11.01.26)  A1: Köln -> Euskirchen, zwischen 3.9 km hinter AS Erftstadt und 1.6 km vor AS Weilerswist-West  Länge: konnte nicht ermittelt werden  BW AK Bliesheim (BW 21)",
+        "start_timestamp": null,
+        "extent": "50.77197187706455,6.82050231096643,50.765581307474186,6.821147009195906",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.843715939457337,
+          50.9172703464626
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-000971--vi-fbm.2025-11-12_21-00-00-000.devi-zus.2023-11-14_21-00-00-000.f_025.de60",
+        "title": "A1 | Gleuel - Köln-Nord",
+        "subtitle": " Euskirchen -> Köln",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 12.11.25 21:00 bis zum 13.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 13.11.25)  A1: Euskirchen -> Köln, zwischen 4.3 km hinter AS Gleuel und 3.6 km vor AK Köln-Nord  Länge: konnte nicht ermittelt werden  Tunnelwartung LEH Lövenich",
+        "start_timestamp": null,
+        "extent": "50.9172703464626,6.843715939457337,50.97808462681288,6.85128022196304",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.851483807985623,
+          50.97899253185719
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-000971--vi-fbm.2025-11-11_21-00-00-000.devi-zus.2023-11-14_21-00-00-000.f_025.de57",
+        "title": "A1 | Köln-Nord - Köln-West",
+        "subtitle": " Köln -> Euskirchen",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 11.11.25 21:00 bis zum 12.11.25 05:00 Uhr. 12.11.25 21:00 bis zum 13.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 13.11.25)  A1: Köln -> Euskirchen, zwischen 3.5 km hinter AK Köln-Nord und 1.2 km vor AK Köln-West  Länge: konnte nicht ermittelt werden  Tunnelwartung LEH Lövenich",
+        "start_timestamp": null,
+        "extent": "50.97899253185719,6.851483807985623,50.9359396176009,6.849099014689891",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.17316808037613,
+          52.725395978932255
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004447--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2024-05-02_19-00-00-000_018.f.de37",
+        "title": "A1 | Bakumer Wiesen - Cloppenburg",
+        "subtitle": " Osnabrück -> Bremen",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 24.07.26)  A1: Osnabrück -> Bremen, zwischen 1.5 km hinter Bakumer Wiesen und AS Cloppenburg  Länge: konnte nicht ermittelt werden  A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "52.725395978932255,8.17316808037613,52.81298206598328,8.210796918295152",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.21055734134123,
+          52.813007039504704
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004447--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2024-05-02_19-00-00-000_018.f.de38",
+        "title": "A1 | Cloppenburg - Bakumer Wiesen",
+        "subtitle": " Bremen -> Osnabrück",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 24.07.26)  A1: Bremen -> Osnabrück, zwischen AS Cloppenburg und 1.5 km vor Bakumer Wiesen  Länge: konnte nicht ermittelt werden  A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "52.813007039504704,8.21055734134123,52.72540301683883,8.172952162875994",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.850046009725682,
+          50.938617387549144
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-000971--vi-fbm.2025-11-12_21-00-00-000.devi-zus.2023-11-14_21-00-00-000.f_025.de63",
+        "title": "Tunnelwartung LEH Lövenich",
+        "subtitle": " AS Köln-Lövenich (aus Richtung Lövenich)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 12.11.25 21:00 bis zum 13.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 13.11.25)  Auffahrt auf die A1: AS Köln-Lövenich (aus Richtung Lövenich)  Länge: konnte nicht ermittelt werden  Tunnelwartung LEH Lövenich",
+        "start_timestamp": null,
+        "extent": "50.938617387549144,6.850046009725682,50.9406316109172,6.849768145317269",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.840925869375926,
+          50.92663825272293
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-000971--vi-fbm.2025-11-12_21-00-00-000.devi-zus.2023-11-14_21-00-00-000.f_025.de62",
+        "title": "Tunnelwartung LEH Lövenich",
+        "subtitle": " AK Köln-West (aus Richtung Frechen-Nord)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 12.11.25 21:00 bis zum 13.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 13.11.25)  Abfahrt von der A4: AK Köln-West (aus Richtung Frechen-Nord)  Länge: konnte nicht ermittelt werden  Tunnelwartung LEH Lövenich",
+        "start_timestamp": null,
+        "extent": "50.92663825272293,6.840925869375926,50.924623711964564,6.844974841477073",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8490679958750365,
+          50.925094797525844
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-000971--vi-fbm.2025-11-12_21-00-00-000.devi-zus.2023-11-14_21-00-00-000.f_025.de61",
+        "title": "Tunnelwartung LEH Lövenich",
+        "subtitle": " AK Köln-West (aus Richtung Frechen)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 12.11.25 21:00 bis zum 13.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 13.11.25)  Auffahrt auf die A1: AK Köln-West (aus Richtung Frechen)  Länge: konnte nicht ermittelt werden  Tunnelwartung LEH Lövenich",
+        "start_timestamp": null,
+        "extent": "50.925094797525844,6.8490679958750365,50.928572833062304,6.847345394347932",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.846134804490746,
+          50.93749994849465
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-000971--vi-fbm.2025-11-11_21-00-00-000.devi-zus.2023-11-14_21-00-00-000.f_025.de59",
+        "title": "Tunnelwartung LEH Lövenich",
+        "subtitle": " Lövenich (aus Richtung Köln-Lövenich)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 11.11.25 21:00 bis zum 12.11.25 05:00 Uhr. 12.11.25 21:00 bis zum 13.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 13.11.25)  Auffahrt auf die A1: Lövenich (aus Richtung Köln-Lövenich)  Länge: konnte nicht ermittelt werden  Tunnelwartung LEH Lövenich",
+        "start_timestamp": null,
+        "extent": "50.93749994849465,6.846134804490746,50.935492991652275,6.848884964654331",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.849782025511973,
+          50.97778860416929
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-000971--vi-fbm.2025-11-11_21-00-00-000.devi-zus.2023-11-14_21-00-00-000.f_025.de58",
+        "title": "Tunnelwartung LEH Lövenich",
+        "subtitle": " AS Köln-Bocklemünd (aus Richtung Köln-Nord)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 11.11.25 21:00 bis zum 12.11.25 05:00 Uhr. 12.11.25 21:00 bis zum 13.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 13.11.25)  Auffahrt auf die A1: AS Köln-Bocklemünd (aus Richtung Köln-Nord)  Länge: konnte nicht ermittelt werden  Tunnelwartung LEH Lövenich",
+        "start_timestamp": null,
+        "extent": "50.97778860416929,6.849782025511973,50.9762307317383,6.850126713966893",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.532941933446289,
+          51.43379502167543
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004527--vi-fbm.2025-11-07_22-00-00-000.devi-zus.2024-05-11_20-00-00-000_001.f.de47",
+        "title": "A45 - Ersatzneubau Kreuzungsbauwerk A1-A45 Westhofener Kreuz - AlD 4527",
+        "subtitle": " AK Westhofener Kreuz (aus Richtung Lennhof) nach A1",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 20.11.25 22:00 bis zum 21.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 01.09.27)  Von Auffahrt auf die A1: AK Westhofener Kreuz (aus Richtung Lennhof) nach A1: Köln -> Dortmund, zwischen AK Westhofener Kreuz und 3.3 km vor AS Schwerte  Länge: konnte nicht ermittelt werden  A45 - Ersatzneubau Kreuzungsbauwerk A1-A45 Westhofener Kreuz - AlD 4527",
+        "start_timestamp": null,
+        "extent": "51.43379502167543,7.532941933446289,51.43498298809359,7.5332940528767125",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.535819176139429,
+          51.4307678166588
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004527--vi-fbm.2025-11-07_22-00-00-000.devi-zus.2024-05-11_20-00-00-000_001.f.de45",
+        "title": "A45 - Ersatzneubau Kreuzungsbauwerk A1-A45 Westhofener Kreuz - AlD 4527",
+        "subtitle": " AK Westhofener Kreuz (aus Richtung Lennhof)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 20.11.25 22:00 bis zum 21.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 01.09.27)  Auffahrt auf die A1: AK Westhofener Kreuz (aus Richtung Lennhof)  Länge: konnte nicht ermittelt werden  A45 - Ersatzneubau Kreuzungsbauwerk A1-A45 Westhofener Kreuz - AlD 4527",
+        "start_timestamp": null,
+        "extent": "51.4307678166588,7.535819176139429,51.430471289040874,7.535632504849614",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.529136173046484,
+          51.432797484984114
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004527--vi-fbm.2025-11-07_22-00-00-000.devi-zus.2024-05-11_20-00-00-000_001.f.de44",
+        "title": "A45 - Ersatzneubau Kreuzungsbauwerk A1-A45 Westhofener Kreuz - AlD 4527",
+        "subtitle": " AK Westhofener Kreuz (aus Richtung Schwerte)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 20.11.25 22:00 bis zum 21.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 01.09.27)  Abfahrt von der A1: AK Westhofener Kreuz (aus Richtung Schwerte)  Länge: konnte nicht ermittelt werden  A45 - Ersatzneubau Kreuzungsbauwerk A1-A45 Westhofener Kreuz - AlD 4527",
+        "start_timestamp": null,
+        "extent": "51.432797484984114,7.529136173046484,51.43304110931685,7.5295305178085234",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.915382776234839,
+          50.0457084571834
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-051380--vi-fbm.2025-10-29_22-00-00-000.devi-zus.2025-10-21_00-00-00-000.de8",
+        "title": "A1 Sonstiges",
+        "subtitle": " AS Hasborn (aus Richtung Lüxem)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 12.11.25 22:00 bis zum 13.11.25 06:00 Uhr. 19.11.25 22:00 bis zum 20.11.25 06:00 Uhr. 26.11.25 22:00 bis zum 27.11.25 06:00 Uhr. 03.12.25 22:00 bis zum 04.12.25 06:00 Uhr. (Ende der Gesamtmaßnahme: 13.12.25)  Abfahrt von der A1: AS Hasborn (aus Richtung Lüxem)  Länge: konnte nicht ermittelt werden  A1 Sonstiges",
+        "start_timestamp": null,
+        "extent": "50.0457084571834,6.915382776234839,50.04623581314052,6.913992490671995",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.012608189200082,
+          53.379676242475036
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-000956--vi-fbm.2025-02-04_18-00-00-000.devi-zus.2025-01-27_10-00-00-000_001.de27",
+        "title": "A7, Bereich Horster Dreieck, unterhalb BW7400, Rifa Lübeck und Berlin und zurück, Brückeninstandsetzung",
+        "subtitle": " Horster Dreieck/A7 (aus Richtung Seevetal-Hittfeld)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 04.02.25 um 18:00 Uhr Ende: 31.05.26 um 18:00 Uhr (Ende der Gesamtmaßnahme: 15.06.26)  Abfahrt von der A1: Horster Dreieck/A7 (aus Richtung Seevetal-Hittfeld)  Länge: konnte nicht ermittelt werden  A7, Bereich Horster Dreieck, unterhalb BW7400, Rifa Lübeck und Berlin und zurück, Brückeninstandsetzung",
+        "start_timestamp": "2025-02-04T18:00:00+01:00",
+        "extent": "53.379676242475036,10.012608189200082,53.37697523461253,10.019089651162103",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.758516496285819,
+          49.809617698718704
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-010678--vi-fbm.2025-10-29_00-00-00-000.devi-zus.2025-07-28_00-00-00-000_001.de7",
+        "title": "A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "subtitle": " km 12.44 nach Abfahrt von der A602 O",
+        "description": "Zeitraum dieser Bauphase: Beginn: 29.10.25 um 00:00 Uhr Ende: 17.11.25 um 04:00 Uhr (Ende der Gesamtmaßnahme: 30.11.25)  Von A602: km 12.44 nach Abfahrt von der A602 O  Länge: konnte nicht ermittelt werden  A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "start_timestamp": "2025-10-29T00:00:00+01:00",
+        "extent": "49.809617698718704,6.758516496285819,49.8078281377132,6.7597433687283415",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.757859895113833,
+          49.809264629649945
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-010678--vi-fbm.2025-10-29_00-00-00-000.devi-zus.2025-07-28_00-00-00-000_001.de6",
+        "title": "A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "subtitle": " AD Moseltal (aus Richtung Schweich) nach A602",
+        "description": "Zeitraum dieser Bauphase: Beginn: 29.10.25 um 00:00 Uhr Ende: 17.11.25 um 04:00 Uhr (Ende der Gesamtmaßnahme: 30.11.25)  Von Auffahrt auf die A602: AD Moseltal (aus Richtung Schweich) nach A602: km 12.27  Länge: konnte nicht ermittelt werden  A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "start_timestamp": "2025-10-29T00:00:00+01:00",
+        "extent": "49.809264629649945,6.757859895113833,49.810045468750765,6.757893446368326",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.020964461933005,
+          52.34191799686959
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004432--vi-fbm.2025-01-13_09-00-00-000.devi-zus.2024-11-08_20-00-00-000_004.f.de6",
+        "title": "A1 - Ersatzneubau BW AS Osnabrück-Nord-B68 - Wallenhorst - AlD 4432",
+        "subtitle": "",
+        "description": "Zeitraum dieser Bauphase: Beginn: 13.01.25 um 09:00 Uhr Ende: 28.10.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 28.10.26)  Auffahrt auf die B68  Länge: konnte nicht ermittelt werden  A1 - Ersatzneubau BW AS Osnabrück-Nord-B68 - Wallenhorst - AlD 4432",
+        "start_timestamp": "2025-01-13T09:00:00+01:00",
+        "extent": "52.34191799686959,8.020964461933005,52.341252667959516,8.020207250390468",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.01875781028819,
+          52.341474961330995
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004432--vi-fbm.2025-01-13_09-00-00-000.devi-zus.2024-11-08_20-00-00-000_004.f.de5",
+        "title": "A1 - Ersatzneubau BW AS Osnabrück-Nord-B68 - Wallenhorst - AlD 4432",
+        "subtitle": "",
+        "description": "Zeitraum dieser Bauphase: Beginn: 13.01.25 um 09:00 Uhr Ende: 28.10.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 28.10.26)  Auffahrt auf die B68  Länge: konnte nicht ermittelt werden  A1 - Ersatzneubau BW AS Osnabrück-Nord-B68 - Wallenhorst - AlD 4432",
+        "start_timestamp": "2025-01-13T09:00:00+01:00",
+        "extent": "52.341474961330995,8.01875781028819,52.3421987025249,8.019699564259833",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.01994130898847,
+          52.34229860403101
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004432--vi-fbm.2025-02-10_09-00-00-000.devi-zus.2024-11-08_20-00-00-000_004.f.de4",
+        "title": "A1 - Ersatzneubau BW AS Osnabrück-Nord-B68 - Wallenhorst - AlD 4432",
+        "subtitle": " AS Osnabrück-Nord (aus Richtung Wallenhorster Straße)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 10.02.25 um 09:00 Uhr Ende: 28.10.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 28.10.26)  Auffahrt auf die A1: AS Osnabrück-Nord (aus Richtung Wallenhorster Straße)  Länge: konnte nicht ermittelt werden  A1 - Ersatzneubau BW AS Osnabrück-Nord-B68 - Wallenhorst - AlD 4432",
+        "start_timestamp": "2025-02-10T09:00:00+01:00",
+        "extent": "52.34229860403101,8.01994130898847,52.342383251961635,8.02060548329799",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.020199249335755,
+          52.34068276759854
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004432--vi-fbm.2025-02-10_09-00-00-000.devi-zus.2024-11-08_20-00-00-000_004.f.de3",
+        "title": "A1 - Ersatzneubau BW AS Osnabrück-Nord-B68 - Wallenhorst - AlD 4432",
+        "subtitle": " AS Osnabrück-Nord (aus Richtung Hasetal)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 10.02.25 um 09:00 Uhr Ende: 28.10.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 28.10.26)  Auffahrt auf die A1: AS Osnabrück-Nord (aus Richtung Hasetal)  Länge: konnte nicht ermittelt werden  A1 - Ersatzneubau BW AS Osnabrück-Nord-B68 - Wallenhorst - AlD 4432",
+        "start_timestamp": "2025-02-10T09:00:00+01:00",
+        "extent": "52.34068276759854,8.020199249335755,52.34051680628917,8.018646866722243",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.174912350378616,
+          52.7246601579488
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004447--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2024-05-02_19-00-00-000_018.f.de42",
+        "title": "A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "subtitle": " AS Vechta (aus Richtung Bakumer Wiesen) nach A1",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 24.07.26)  Von Auffahrt auf die A1: AS Vechta (aus Richtung Bakumer Wiesen) nach A1: Osnabrück -> Bremen, zwischen Bakumer Wiesen und 6.5 km vor Cappeln Hagelage-Ost  Länge: konnte nicht ermittelt werden  A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "52.7246601579488,8.174912350378616,52.72607893324113,8.17323070855753",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.17342442969126,
+          52.729465625373294
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004447--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2024-05-02_19-00-00-000_018.f.de41",
+        "title": "A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "subtitle": " Bremen -> Osnabrück",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 24.07.26)  Von A1: Bremen -> Osnabrück, zwischen 6.1 km hinter Cappeln Hagelage-Ost und AS Vechta nach Abfahrt von der A1: AS Vechta (aus Richtung Cappeln Hagelage-Ost)  Länge: konnte nicht ermittelt werden  A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "52.729465625373294,8.17342442969126,52.726548099622704,8.171520598971735",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.209958989600596,
+          52.810088053162126
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004447--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2024-05-02_19-00-00-000_018.f.de40",
+        "title": "A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "subtitle": " Osnabrück -> Bremen",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 24.07.26)  Von A1: Osnabrück -> Bremen, zwischen 2.9 km hinter Cappeln Hagelage-West und AS Cloppenburg nach Abfahrt von der A1: AS Cloppenburg (aus Richtung Cappeln Hagelage-West)  Länge: konnte nicht ermittelt werden  A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "52.810088053162126,8.209958989600596,52.81374748547333,8.212150957153401",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.209387480602723,
+          52.811823301615036
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004447--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2024-05-02_19-00-00-000_018.f.de39",
+        "title": "A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "subtitle": " AS Cloppenburg (aus Richtung Drantumer Mühle) nach A1",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 24.07.26)  Von Auffahrt auf die A1: AS Cloppenburg (aus Richtung Drantumer Mühle) nach A1: Bremen -> Osnabrück, zwischen AS Cloppenburg und 2.8 km vor Cappeln Hagelage-West  Länge: konnte nicht ermittelt werden  A1 - 6 Brückenersatzneubauten - AlD 4447",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "52.811823301615036,8.209387480602723,52.80860687504796,8.209293525779023",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.667211356906927,
+          51.69663838057448
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2023-004481--vi-fbm.2025-10-06_07-00-00-000.devi-zus.2025-01-20_19-00-00-000.f.de23",
+        "title": "A1 - Ersatzneubau BW Nordlippestraße - AlD 4481",
+        "subtitle": " AS Hamm-Bockum/Werne (aus Richtung An der Landwehr)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 06.10.25 um 07:00 Uhr Ende: 15.11.25 um 09:00 Uhr (Ende der Gesamtmaßnahme: 27.11.26)  Abfahrt von der A1: AS Hamm-Bockum/Werne (aus Richtung An der Landwehr)  Länge: konnte nicht ermittelt werden  A1 - Ersatzneubau BW Nordlippestraße - AlD 4481",
+        "start_timestamp": "2025-10-06T07:00:00+02:00",
+        "extent": "51.69663838057448,7.667211356906927,51.69741672357653,7.667701810808883",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.338788583589597,
+          53.71594808840549
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2024-002617--vi-fbm.2025-10-27_12-00-00-000.devi-zus.2024-04-03_00-00-00-000_013.f.de132",
+        "title": "A1, AK Bargteheide, Ersatzneubau Brückenbauwerk über die A1 ",
+        "subtitle": "",
+        "description": "Zeitraum dieser Bauphase: Beginn: 27.10.25 um 12:00 Uhr Ende: 01.12.25 um 00:00 Uhr (Ende der Gesamtmaßnahme: 01.12.25)  Auffahrt auf die A21 N  Länge: konnte nicht ermittelt werden  A1, AK Bargteheide, Ersatzneubau Brückenbauwerk über die A1 ",
+        "start_timestamp": "2025-10-27T12:00:00+01:00",
+        "extent": "53.71594808840549,10.338788583589597,53.715437134028164,10.337825247893013",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.334726324347937,
+          53.71508695367511
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2024-002617--vi-fbm.2025-10-27_12-00-00-000.devi-zus.2024-04-03_00-00-00-000_013.f.de131",
+        "title": "A1, AK Bargteheide, Ersatzneubau Brückenbauwerk über die A1 ",
+        "subtitle": " AK Bargteheide (aus Richtung Rehbrook)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 27.10.25 um 12:00 Uhr Ende: 01.12.25 um 00:00 Uhr (Ende der Gesamtmaßnahme: 01.12.25)  Auffahrt auf die A21: AK Bargteheide (aus Richtung Rehbrook)  Länge: konnte nicht ermittelt werden  A1, AK Bargteheide, Ersatzneubau Brückenbauwerk über die A1 ",
+        "start_timestamp": "2025-10-27T12:00:00+01:00",
+        "extent": "53.71508695367511,10.334726324347937,53.71579008722543,10.333850370862296",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.858940176243543,
+          53.37326823004027
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-045637--vi-fbm.2025-11-10_00-00-00-000.devi-zus.2025-11-05_19-00-00-000.de5",
+        "title": "A1 zur A261, Bereich AD Buchholz, Rifa Nord ( Hamburg ), Erneuerung der Fahrbahn",
+        "subtitle": " AD Buchholzer Dreieck (in Richtung Rosengarten-Ost)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 10.11.25 von 00:00 bis 06:00 Uhr (Ende der Gesamtmaßnahme: 10.11.25)  Auffahrt auf die A261: AD Buchholzer Dreieck (in Richtung Rosengarten-Ost)  Länge: konnte nicht ermittelt werden  A1 zur A261, Bereich AD Buchholz, Rifa Nord ( Hamburg ), Erneuerung der Fahrbahn",
+        "start_timestamp": null,
+        "extent": "53.37326823004027,9.858940176243543,53.377941620712015,9.864069664437087",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.91618679613428,
+          50.04316212824448
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-051380--vi-fbm.2025-10-29_22-00-00-000.devi-zus.2025-10-21_00-00-00-000.de7",
+        "title": "A1 Sonstiges",
+        "subtitle": " Trier -> Köln/Koblenz",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 12.11.25 22:00 bis zum 13.11.25 06:00 Uhr. 19.11.25 22:00 bis zum 20.11.25 06:00 Uhr. 26.11.25 22:00 bis zum 27.11.25 06:00 Uhr. 03.12.25 22:00 bis zum 04.12.25 06:00 Uhr. (Ende der Gesamtmaßnahme: 13.12.25)  Von A1: Trier -> Köln/Koblenz, zwischen 1.6 km hinter Lüxem und Eifel-Ost nach Abfahrt von der A1: AS Hasborn (aus Richtung Lüxem)  Länge: konnte nicht ermittelt werden  A1 Sonstiges",
+        "start_timestamp": null,
+        "extent": "50.04316212824448,6.91618679613428,50.04551845823531,6.915370322917391",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558960576480761,
+          51.987604420030856
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-054476--vi-fbm.2025-11-13_19-00-00-000.devi-bs.2025-11-13_19-00-00-000_004.de0",
+        "title": "A1 - Fahrbahninstandsetzung - AkD 54476",
+        "subtitle": "",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 13.11.25 19:00 bis zum 14.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 14.11.25)  Auffahrt auf die B54  Länge: konnte nicht ermittelt werden  A1 - Fahrbahninstandsetzung - AkD 54476",
+        "start_timestamp": null,
+        "extent": "51.987604420030856,7.558960576480761,51.98788478110027,7.560675158051664",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76578737120299,
+          49.807427157241676
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-010678--vi-fbm.2025-10-29_00-00-00-000.devi-zus.2025-07-28_00-00-00-000_001.de9",
+        "title": "A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "subtitle": "",
+        "description": "Zeitraum dieser Bauphase: Beginn: 29.10.25 um 00:00 Uhr Ende: 17.11.25 um 04:00 Uhr (Ende der Gesamtmaßnahme: 30.11.25)  Auffahrt auf die A602 W  Länge: konnte nicht ermittelt werden  A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "start_timestamp": "2025-10-29T00:00:00+01:00",
+        "extent": "49.807427157241676,6.76578737120299,49.808337162145015,6.760678799171873",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.759844458169887,
+          49.807753326218055
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-010678--vi-fbm.2025-10-29_00-00-00-000.devi-zus.2025-07-28_00-00-00-000_001.de8",
+        "title": "A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "subtitle": "",
+        "description": "Zeitraum dieser Bauphase: Beginn: 29.10.25 um 00:00 Uhr Ende: 17.11.25 um 04:00 Uhr (Ende der Gesamtmaßnahme: 30.11.25)  Von Auffahrt auf die A602 O nach Abfahrt von der A602 O  Länge: konnte nicht ermittelt werden  A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "start_timestamp": "2025-10-29T00:00:00+01:00",
+        "extent": "49.807753326218055,6.759844458169887,49.80703437475952,6.7616544243154095",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.760656327979317,
+          49.80573098644384
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2025-010678--vi-fbm.2025-10-29_00-00-00-000.devi-zus.2025-07-28_00-00-00-000_001.de1",
+        "title": "A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "subtitle": " AD Moseltal (aus Richtung Rioler Wald)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 29.10.25 um 00:00 Uhr Ende: 17.11.25 um 04:00 Uhr (Ende der Gesamtmaßnahme: 30.11.25)  Abfahrt von der A1: AD Moseltal (aus Richtung Rioler Wald)  Länge: konnte nicht ermittelt werden  A602 AD Moseltal Äste Decke- Binder Sanierung",
+        "start_timestamp": "2025-10-29T00:00:00+01:00",
+        "extent": "49.80573098644384,6.760656327979317,49.80733927744412,6.766204222877188",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74807601957211,
+          53.94753818342103
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "closure_id": "2024-035081--vi-fbm.2025-02-03_06-00-00-000.devi-zus.2025-02-01_00-00-00-000.de5",
+        "title": "A1, AS Seeretz bis AS Scharbeutz, Rifa Nord, Grundhafte Erneuerung",
+        "subtitle": " AS Ratekau (aus Richtung Sereetzerfeld)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 03.02.25 um 06:00 Uhr Ende: 28.02.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 28.02.26)  Abfahrt von der A1: AS Ratekau (aus Richtung Sereetzerfeld)  Länge: konnte nicht ermittelt werden  A1, AS Seeretz bis AS Scharbeutz, Rifa Nord, Grundhafte Erneuerung",
+        "start_timestamp": "2025-02-03T06:00:00+01:00",
+        "extent": "53.94753818342103,10.74807601957211,53.949579056107424,10.749165010715195",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.317891336852822,
+          51.60373077705022
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "closure_id": "2025-055063--vi-fbm.2025-11-14_20-00-00-000.devi-zus.2025-11-14_20-00-00-000_001.de3",
+        "title": "A2 - Fahrbahninstandsetzung - AkD 55063",
+        "subtitle": " AS Henrichenburg (aus Richtung Recklinghausen-Ost)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 14.11.25 20:00 bis zum 15.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 15.11.25)  Abfahrt von der A2: AS Henrichenburg (aus Richtung Recklinghausen-Ost)  Länge: konnte nicht ermittelt werden  A2 - Fahrbahninstandsetzung - AkD 55063",
+        "start_timestamp": null,
+        "extent": "51.60373077705022,7.317891336852822,51.60275982319891,7.318142776224888",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.873261580083063,
+          51.53845969871295
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "closure_id": "2023-004427--vi-fbm.2024-04-22_04-00-00-000.devi-zus.2024-04-22_20-00-00-000_008.f.de24",
+        "title": "A2 - grundhafte Sanierung der Fahrbahn - inkl. Parkplatz Schwarze Heide in Richtung Oberhausen gesperrt - AlD 4427",
+        "subtitle": " AS Oberhausen-Königshardt (aus Richtung Oberhausen)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 22.04.24 um 04:00 Uhr Ende: 31.05.26 um 20:00 Uhr (Ende der Gesamtmaßnahme: 01.06.26)  Auffahrt auf die A2: AS Oberhausen-Königshardt (aus Richtung Oberhausen)  Länge: konnte nicht ermittelt werden  A2 - grundhafte Sanierung der Fahrbahn - inkl. Parkplatz Schwarze Heide in Richtung Oberhausen gesperrt - AlD 4427",
+        "start_timestamp": "2024-04-22T04:00:00+02:00",
+        "extent": "51.53845969871295,6.873261580083063,51.53891671346142,6.874214381133228",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.871314684313459,
+          51.53968774159429
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "closure_id": "2023-004427--vi-fbm.2024-04-22_04-00-00-000.devi-zus.2024-04-22_20-00-00-000_008.f.de22",
+        "title": "A2 - grundhafte Sanierung der Fahrbahn - inkl. Parkplatz Schwarze Heide in Richtung Oberhausen gesperrt - AlD 4427",
+        "subtitle": " AS Oberhausen-Königshardt (aus Richtung Schwarze Heide)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 22.04.24 um 04:00 Uhr Ende: 31.05.26 um 20:00 Uhr (Ende der Gesamtmaßnahme: 01.06.26)  Auffahrt auf die A2: AS Oberhausen-Königshardt (aus Richtung Schwarze Heide)  Länge: konnte nicht ermittelt werden  A2 - grundhafte Sanierung der Fahrbahn - inkl. Parkplatz Schwarze Heide in Richtung Oberhausen gesperrt - AlD 4427",
+        "start_timestamp": "2024-04-22T04:00:00+02:00",
+        "extent": "51.53968774159429,6.871314684313459,51.53921311882074,6.870894966115482",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07637624872525,
+          52.21817172738818
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "closure_id": "2025-052314--vi-fbm.2025-11-17_10-00-00-000.devi-zus.2025-11-17_10-00-00-000.de0",
+        "title": "A2 RF H AS MarienbornHelmstedt Sperrung einer Anschlussstelle",
+        "subtitle": " AS Marienborn/Helmstedt (aus Richtung Marienborn) nach A2",
+        "description": "Zeitraum dieser Bauphase: Beginn: 17.11.25 um 10:00 Uhr Ende: 20.11.25 um 18:00 Uhr (Ende der Gesamtmaßnahme: 20.11.25)  Von Auffahrt auf die A2: AS Marienborn/Helmstedt (aus Richtung Marienborn) nach A2: Magdeburg -> Braunschweig, zwischen AS Marienborn/Helmstedt und 1.0 km vor Lappwald Nord  Länge: konnte nicht ermittelt werden  A2 RF H AS MarienbornHelmstedt Sperrung einer Anschlussstelle",
+        "start_timestamp": "2025-11-17T10:00:00+01:00",
+        "extent": "52.21817172738818,11.07637624872525,52.21699514634932,11.072943278240745",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.187713110055271,
+          51.58355891986234
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "closure_id": "2023-001445--vi-fbm.2021-04-12_05-00-00-000.f.devi-zus.2021-04-12_05-00-00-000.f.de2",
+        "title": "A2 - Sperrung der Abfahrt von der A2 aus Richtung Oberhausen auf die A43 in Richtung Wuppertal - AlD 1445",
+        "subtitle": " AK Recklinghausen (aus Richtung Recklinghausen-Süd)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 12.04.21 um 05:00 Uhr Ende: 27.12.25 um 19:00 Uhr (Ende der Gesamtmaßnahme: 27.12.25)  Abfahrt von der A2: AK Recklinghausen (aus Richtung Recklinghausen-Süd)  Länge: konnte nicht ermittelt werden  A2 - Sperrung der Abfahrt von der A2 aus Richtung Oberhausen auf die A43 in Richtung Wuppertal - AlD 1445",
+        "start_timestamp": "2021-04-12T05:00:00+02:00",
+        "extent": "51.58355891986234,7.187713110055271,51.58462772893737,7.188388560419151",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8716077241599045,
+          51.538947833783716
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "closure_id": "2023-004427--vi-fbm.2024-04-22_04-00-00-000.devi-zus.2024-04-22_20-00-00-000_008.f.de23",
+        "title": "A2 - grundhafte Sanierung der Fahrbahn - inkl. Parkplatz Schwarze Heide in Richtung Oberhausen gesperrt - AlD 4427",
+        "subtitle": " AS Oberhausen-Königshardt (aus Richtung Oberhausen)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 22.04.24 um 04:00 Uhr Ende: 31.05.26 um 20:00 Uhr (Ende der Gesamtmaßnahme: 01.06.26)  Abfahrt von der A2: AS Oberhausen-Königshardt (aus Richtung Oberhausen)  Länge: konnte nicht ermittelt werden  A2 - grundhafte Sanierung der Fahrbahn - inkl. Parkplatz Schwarze Heide in Richtung Oberhausen gesperrt - AlD 4427",
+        "start_timestamp": "2024-04-22T04:00:00+02:00",
+        "extent": "51.538947833783716,6.8716077241599045,51.53824634799973,6.872827523553723",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.872726258990946,
+          51.53926598609144
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "closure_id": "2023-004427--vi-fbm.2024-04-22_04-00-00-000.devi-zus.2024-04-22_20-00-00-000_008.f.de21",
+        "title": "A2 - grundhafte Sanierung der Fahrbahn - inkl. Parkplatz Schwarze Heide in Richtung Oberhausen gesperrt - AlD 4427",
+        "subtitle": " AS Oberhausen-Königshardt (aus Richtung Schwarze Heide)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 22.04.24 um 04:00 Uhr Ende: 31.05.26 um 20:00 Uhr (Ende der Gesamtmaßnahme: 01.06.26)  Abfahrt von der A2: AS Oberhausen-Königshardt (aus Richtung Schwarze Heide)  Länge: konnte nicht ermittelt werden  A2 - grundhafte Sanierung der Fahrbahn - inkl. Parkplatz Schwarze Heide in Richtung Oberhausen gesperrt - AlD 4427",
+        "start_timestamp": "2024-04-22T04:00:00+02:00",
+        "extent": "51.53926598609144,6.872726258990946,51.539753268666416,6.871645962531102",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.613310674496294,
+          52.184913073077986
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "closure_id": "2025-053009--vi-fbm.2025-11-10_08-00-00-000.devi-zus.2025-11-10_08-00-00-000.de1",
+        "title": "A2 Arbeiten an Schutzeinrichtungen",
+        "subtitle": " AS Magdeburg-Zentrum (aus Richtung Magdeburg-Kannenstieg)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 10.11.25 um 08:00 Uhr Ende: 11.11.25 um 16:00 Uhr (Ende der Gesamtmaßnahme: 11.11.25)  Abfahrt von der A2: AS Magdeburg-Zentrum (aus Richtung Magdeburg-Kannenstieg)  Länge: konnte nicht ermittelt werden  A2 Arbeiten an Schutzeinrichtungen",
+        "start_timestamp": "2025-11-10T08:00:00+01:00",
+        "extent": "52.184913073077986,11.613310674496294,52.18560244817261,11.61590010052679",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.474646223911725,
+          49.31673013781522
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2025-042164--vi-fbm.2025-11-15_22-00-00-000.devi-zus.2025-11-15_22-00-00-000.de2",
+        "title": "A3 | Neumarkt/Oberpfalz - Oberölsbach",
+        "subtitle": " Passau -> Nürnberg",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 15.11.25 22:00 bis zum 16.11.25 06:00 Uhr. (Ende der Gesamtmaßnahme: 16.11.25)  A3: Passau -> Nürnberg, zwischen 0.1 km hinter AS Neumarkt/Oberpfalz und 0.4 km vor AS Oberölsbach  Länge: konnte nicht ermittelt werden  A3 Bauwerksarbeiten",
+        "start_timestamp": null,
+        "extent": "49.31673013781522,11.474646223911725,49.36002894543508,11.429345101726165",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.429236990048347,
+          49.35993465883913
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2025-042164--vi-fbm.2025-11-15_22-00-00-000.devi-zus.2025-11-15_22-00-00-000.de1",
+        "title": "A3 | Oberölsbach - Neumarkt/Oberpfalz",
+        "subtitle": " Nürnberg -> Passau",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 15.11.25 22:00 bis zum 16.11.25 06:00 Uhr. (Ende der Gesamtmaßnahme: 16.11.25)  A3: Nürnberg -> Passau, zwischen 0.4 km hinter AS Oberölsbach und 0.1 km vor AS Neumarkt/Oberpfalz  Länge: konnte nicht ermittelt werden  A3 Bauwerksarbeiten",
+        "start_timestamp": null,
+        "extent": "49.35993465883913,11.429236990048347,49.31662864563501,11.474565219255487",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.72053087937099,
+          50.06456530094889
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2024-019990--vi-fbm.2025-11-08_17-00-00-000.devi-zus.2025-08-20_00-00-00-000.de49",
+        "title": "A3 | Frankfurt am Main-Süd - Offenbach",
+        "subtitle": " Frankfurt -> Würzburg",
+        "description": "Zeitraum dieser Bauphase: Beginn: 08.11.25 um 17:00 Uhr Ende: 09.11.25 um 17:00 Uhr (Ende der Gesamtmaßnahme: 27.12.28)  A3: Frankfurt -> Würzburg, zwischen 5.2 km hinter AS Frankfurt am Main-Süd und 0.5 km vor AS Offenbach  Länge: konnte nicht ermittelt werden  Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "start_timestamp": "2025-11-08T17:00:00+01:00",
+        "extent": "50.06456530094889,8.72053087937099,50.06428377490772,8.733264641725086",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.863713544750618,
+          51.34647791034656
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de182",
+        "title": "A3 | Hösel - Oberhausen-Holten",
+        "subtitle": " Köln -> Arnheim",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  A3: Köln -> Arnheim, zwischen 2.8 km hinter Hösel und 2.6 km vor AS Oberhausen-Holten  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.34647791034656,6.863713544750618,51.49092568241019,6.816749655906559",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.816519776012306,
+          51.490969082178964
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de181",
+        "title": "A3 | Oberhausen-Holten - Hösel",
+        "subtitle": " Arnheim -> Köln",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  A3: Arnheim -> Köln, zwischen 2.6 km hinter AS Oberhausen-Holten und 2.8 km vor Hösel  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.490969082178964,6.816519776012306,51.34637316673823,6.863549509540151",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4441017931846964,
+          51.81616980226789
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2025-015377--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2025-09-05_00-00-00-000.de9",
+        "title": "A3 | Kattenhorst - Emmerich",
+        "subtitle": " Oberhausen -> Arnheim",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 16.11.26)  A3: Oberhausen -> Arnheim, zwischen 1.5 km hinter Kattenhorst und 3.4 km vor AS Emmerich  Länge: konnte nicht ermittelt werden  A3 Grenzübergang bis AS Rees (5 Überführungs-BW)",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "51.81616980226789,6.4441017931846964,51.85296148447679,6.288584634740379",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.432953791862563,
+          51.81946585001319
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2025-015377--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2025-09-05_00-00-00-000.de12",
+        "title": "A3 | Rees - Kälberweide",
+        "subtitle": " Oberhausen -> Arnheim",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 16.11.26)  A3: Oberhausen -> Arnheim, zwischen 0.6 km hinter AS Rees und Kälberweide  Länge: konnte nicht ermittelt werden  A3 Grenzübergang bis AS Rees (5 Überführungs-BW)",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "51.81946585001319,6.432953791862563,51.82061299397742,6.427448051860026",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.349174200792863,
+          51.840083226032824
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2025-015377--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2025-09-05_00-00-00-000.de11",
+        "title": "A3 | Millingen - Hetter",
+        "subtitle": " Oberhausen -> Arnheim",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 16.11.26)  A3: Oberhausen -> Arnheim, zwischen 2.7 km hinter Millingen und Hetter  Länge: konnte nicht ermittelt werden  A3 Grenzübergang bis AS Rees (5 Überführungs-BW)",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "51.840083226032824,6.349174200792863,51.84188742325564,6.344161504802166",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.301851276759082,
+          51.84750885359534
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2025-015377--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2025-09-05_00-00-00-000.de10",
+        "title": "A3 | Emmerich-Ost - Löwenberger Landwehr",
+        "subtitle": " Arnheim -> Oberhausen",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 16.11.26)  A3: Arnheim -> Oberhausen, zwischen 0.6 km hinter AS Emmerich-Ost und 0.1 km vor Löwenberger Landwehr  Länge: konnte nicht ermittelt werden  A3 Grenzübergang bis AS Rees (5 Überführungs-BW)",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "51.84750885359534,6.301851276759082,51.846279712648574,6.307297878554438",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2884324537718435,
+          51.852836663891054
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2025-015377--vi-fbm.2025-11-07_20-00-00-000.devi-zus.2025-09-05_00-00-00-000.de8",
+        "title": "A3 | Emmerich - Kattenhorst",
+        "subtitle": " Arnheim -> Oberhausen",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 20:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 16.11.26)  A3: Arnheim -> Oberhausen, zwischen 3.4 km hinter AS Emmerich und 1.5 km vor Kattenhorst  Länge: konnte nicht ermittelt werden  A3 Grenzübergang bis AS Rees (5 Überführungs-BW)",
+        "start_timestamp": "2025-11-07T20:00:00+01:00",
+        "extent": "51.852836663891054,6.2884324537718435,51.816068190732324,6.44401599990548",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2055012194295305,
+          50.823670243538274
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-000185--vi-fbm.2025-11-13_09-00-00-000.devi-zus.2022-02-12_05-00-00-000_002.f.de1230",
+        "title": "Erhaltungsentwurf Abs. III Lohmar - AK Bonn_Siegburg",
+        "subtitle": " AS Lohmar (aus Richtung Siegburg)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 13.11.25 von 09:00 bis 15:00 Uhr (Ende der Gesamtmaßnahme: 30.10.27)  Auffahrt auf die A3: AS Lohmar (aus Richtung Siegburg)  Länge: konnte nicht ermittelt werden  Erhaltungsentwurf Abs. III Lohmar - AK Bonn_Siegburg",
+        "start_timestamp": null,
+        "extent": "50.823670243538274,7.2055012194295305,50.823655901296426,7.205953361240672",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8567728524702645,
+          51.347928975632485
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de190",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AK Breitscheid (aus Richtung Hösel)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Auffahrt auf die A3: AK Breitscheid (aus Richtung Hösel)  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.347928975632485,6.8567728524702645,51.34938134096316,6.857794964384654",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.858630704147363,
+          51.35108944973362
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de189",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AK Breitscheid (aus Richtung Hösel) nach A3",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Von Auffahrt auf die A3: AK Breitscheid (aus Richtung Hösel) nach A3: Köln -> Oberhausen, zwischen AK Breitscheid und 2.1 km vor Entenfang  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.35108944973362,6.858630704147363,51.35321658003427,6.847258944473082",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.802489027157178,
+          51.40934246227395
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de188",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AS Duisburg-Wedau (aus Richtung Stockweg) nach A3",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Von Auffahrt auf die A3: AS Duisburg-Wedau (aus Richtung Stockweg) nach A3: Köln -> Oberhausen, zwischen Stockweg und AS Duisburg-Wedau  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.40934246227395,6.802489027157178,51.40903749059684,6.801081887884083",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.811010188743151,
+          51.44198510115398
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de187",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AS Duisburg-Kaiserberg (aus Richtung Mülheim an der Ruhr)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Abfahrt von der A40: AS Duisburg-Kaiserberg (aus Richtung Mülheim an der Ruhr)  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.44198510115398,6.811010188743151,51.442188641803,6.806296485753215",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.813253127715922,
+          51.475596784559016
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de185",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AS Oberhausen-Lirich (aus Richtung Oberhausen-West) nach A3",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Von Auffahrt auf die A3: AS Oberhausen-Lirich (aus Richtung Oberhausen-West) nach A3: Oberhausen -> Köln, zwischen AK Oberhausen-West und 3.6 km vor AK Kaiserberg  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.475596784559016,6.813253127715922,51.473838653785464,6.815654006577905",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.809361302284584,
+          51.48709036731223
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de184",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AK Oberhausen-West (aus Richtung Oberhausen-Holten)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Auffahrt auf die A3: AK Oberhausen-West (aus Richtung Oberhausen-Holten)  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.48709036731223,6.809361302284584,51.484421010481704,6.813194131281707",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.817370485147079,
+          51.48804445038821
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de183",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AK Oberhausen-West (aus Richtung Oberhausen-Holten) nach A3",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Von Auffahrt auf die A3: AK Oberhausen-West (aus Richtung Oberhausen-Holten) nach A3: Oberhausen -> Köln, zwischen AK Oberhausen-West und 0.6 km vor AS Oberhausen-Lirich  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.48804445038821,6.817370485147079,51.48054560609815,6.813181482590469",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.726513467925802,
+          50.06260715083923
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2024-019990--vi-fbm.2025-10-29_00-00-00-000.devi-zus.2025-08-20_00-00-00-000.de84",
+        "title": "Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "subtitle": " AK Offenbacher Kreuz (aus Richtung Neu-Isenburg)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 29.10.25 um 00:00 Uhr Ende: 24.11.25 um 00:00 Uhr (Ende der Gesamtmaßnahme: 27.12.28)  Abfahrt von der A661: AK Offenbacher Kreuz (aus Richtung Neu-Isenburg)  Länge: konnte nicht ermittelt werden  Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "start_timestamp": "2025-10-29T00:00:00+01:00",
+        "extent": "50.06260715083923,8.726513467925802,50.06412996150418,8.730196096557657",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.727934198502396,
+          50.06434607318589
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2024-019990--vi-fbm.2025-10-29_00-00-00-000.devi-zus.2025-08-20_00-00-00-000.de83",
+        "title": "Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "subtitle": " AK Offenbacher Kreuz (aus Richtung Frankfurt am Main-Süd)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 29.10.25 um 00:00 Uhr Ende: 24.11.25 um 00:00 Uhr (Ende der Gesamtmaßnahme: 27.12.28)  Abfahrt von der A3: AK Offenbacher Kreuz (aus Richtung Frankfurt am Main-Süd)  Länge: konnte nicht ermittelt werden  Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "start_timestamp": "2025-10-29T00:00:00+01:00",
+        "extent": "50.06434607318589,8.727934198502396,50.06373570125597,8.727101465187777",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.727822756000107,
+          50.06529469703612
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2024-019990--vi-fbm.2025-11-07_01-00-00-000.devi-zus.2025-08-20_00-00-00-000.de75",
+        "title": "Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "subtitle": " AK Offenbacher Kreuz (aus Richtung Offenbach)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 01:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 27.12.28)  Auffahrt auf die A3: AK Offenbacher Kreuz (aus Richtung Offenbach)  Länge: konnte nicht ermittelt werden  Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "start_timestamp": "2025-11-07T01:00:00+01:00",
+        "extent": "50.06529469703612,8.727822756000107,50.06485195312483,8.729087785689645",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.72804143970705,
+          50.064324358999144
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2024-019990--vi-fbm.2025-11-08_17-00-00-000.devi-zus.2025-08-20_00-00-00-000.de52",
+        "title": "Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "subtitle": " AK Offenbacher Kreuz (aus Richtung Frankfurt am Main-Süd)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 08.11.25 um 17:00 Uhr Ende: 09.11.25 um 17:00 Uhr (Ende der Gesamtmaßnahme: 27.12.28)  Abfahrt von der A3: AK Offenbacher Kreuz (aus Richtung Frankfurt am Main-Süd)  Länge: konnte nicht ermittelt werden  Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "start_timestamp": "2025-11-08T17:00:00+01:00",
+        "extent": "50.064324358999144,8.72804143970705,50.06400283154692,8.727151520782733",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.726091555915449,
+          50.06383547484953
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2024-019990--vi-fbm.2025-11-08_17-00-00-000.devi-zus.2025-08-20_00-00-00-000.de51",
+        "title": "Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "subtitle": "",
+        "description": "Zeitraum dieser Bauphase: Beginn: 08.11.25 um 17:00 Uhr Ende: 09.11.25 um 17:00 Uhr (Ende der Gesamtmaßnahme: 27.12.28)  Auffahrt auf die A661  Länge: konnte nicht ermittelt werden  Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "start_timestamp": "2025-11-08T17:00:00+01:00",
+        "extent": "50.06383547484953,8.726091555915449,50.064450887887965,8.725106869355681",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.720565998695754,
+          50.06453518923711
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2024-019990--vi-fbm.2025-11-08_17-00-00-000.devi-zus.2025-08-20_00-00-00-000.de50",
+        "title": "Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "subtitle": " AK Offenbacher Kreuz (aus Richtung Frankfurt am Main-Süd)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 08.11.25 um 17:00 Uhr Ende: 09.11.25 um 17:00 Uhr (Ende der Gesamtmaßnahme: 27.12.28)  Abfahrt von der A3: AK Offenbacher Kreuz (aus Richtung Frankfurt am Main-Süd)  Länge: konnte nicht ermittelt werden  Ersatzneubau Hauptkreuzungsbauwerk Offenbacher Kreuz",
+        "start_timestamp": "2025-11-08T17:00:00+01:00",
+        "extent": "50.06453518923711,8.720565998695754,50.064243083671684,8.730635180954682",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.94226342557342,
+          49.565852835238545
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2025-012016--vi-fbm.2025-03-19_00-00-00-000.devi-bs.2025-03-19_00-00-00-000_001.de0",
+        "title": "A3 Anbau von Fahrstreifen",
+        "subtitle": " AS Erlangen-Frauenaurach (aus Richtung Aurach)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 19.03.25 um 00:00 Uhr Ende: 20.12.25 um 00:00 Uhr (Ende der Gesamtmaßnahme: 20.12.25)  Auffahrt auf die A3: AS Erlangen-Frauenaurach (aus Richtung Aurach)  Länge: konnte nicht ermittelt werden  A3 Anbau von Fahrstreifen",
+        "start_timestamp": "2025-03-19T00:00:00+01:00",
+        "extent": "49.565852835238545,10.94226342557342,49.56776113198618,10.94128609343673",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.800275849949983,
+          51.44520988047722
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-11-07_21-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de186",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AK Kaiserberg (aus Richtung Duisburg)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Abfahrt von der A40: AK Kaiserberg (aus Richtung Duisburg)  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-11-07T21:00:00+01:00",
+        "extent": "51.44520988047722,6.800275849949983,51.44384633492656,6.80036489037297",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.806346622341809,
+          51.44223251729192
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-09-17_00-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de180",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AK Kaiserberg (aus Richtung Oberhausen-Lirich)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 17.09.25 um 00:00 Uhr Ende: 01.01.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Auffahrt auf die A3: AK Kaiserberg (aus Richtung Oberhausen-Lirich)  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-09-17T00:00:00+02:00",
+        "extent": "51.44223251729192,6.806346622341809,51.43926265371332,6.805961773181953",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.798535994775791,
+          51.44780276219516
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-10-29_00-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de177",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " Oberhausen -> Köln",
+        "description": "Zeitraum dieser Bauphase: Beginn: 29.10.25 um 00:00 Uhr Ende: 01.01.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Von A3: Oberhausen -> Köln, zwischen 3.6 km hinter AS Oberhausen-Lirich und AS Duisburg-Wedau nach Abfahrt von der A3: AK Kaiserberg (aus Richtung Oberhausen-Lirich)  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-10-29T00:00:00+01:00",
+        "extent": "51.44780276219516,6.798535994775791,51.442784769172654,6.8057293952464075",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7992658951667835,
+          51.44502287846744
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-10-29_00-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de176",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " Oberhausen -> Köln",
+        "description": "Zeitraum dieser Bauphase: Beginn: 29.10.25 um 00:00 Uhr Ende: 01.01.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Von A3: Oberhausen -> Köln, zwischen 0.1 km hinter AK Kaiserberg und AS Duisburg-Wedau nach Abfahrt von der A3: AK Kaiserberg (aus Richtung Oberhausen-Lirich)  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-10-29T00:00:00+01:00",
+        "extent": "51.44502287846744,6.7992658951667835,51.44151285643859,6.807811823959661",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.801981093988182,
+          51.44433192591299
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "closure_id": "2023-001968--vi-fbm.2025-02-21_00-00-00-000.devi-zus.2022-12-03_00-00-00-000.f_001.de134",
+        "title": "A3 - Umbau AK Kaiserberg",
+        "subtitle": " AK Kaiserberg (aus Richtung Duisburg)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 21.02.25 um 00:00 Uhr Ende: 22.01.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 12.10.26)  Abfahrt von der A40: AK Kaiserberg (aus Richtung Duisburg)  Länge: konnte nicht ermittelt werden  A3 - Umbau AK Kaiserberg",
+        "start_timestamp": "2025-02-21T00:00:00+01:00",
+        "extent": "51.44433192591299,6.801981093988182,51.439934893992394,6.805718563433735",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527172406437941,
+          50.97292039490866
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2025-054433--vi-fbm.2025-11-10_20-00-00-000.devi-zus.2025-11-10_20-00-00-000_003.de1",
+        "title": "A4 | Morkepütz - Bielstein",
+        "subtitle": " Olpe -> Köln",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 10.11.25 20:00 bis zum 11.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 11.11.25)  A4: Olpe -> Köln, zwischen 1.7 km hinter Morkepütz und 0.7 km vor AS Bielstein  Länge: konnte nicht ermittelt werden  A4 FB.-San. (AM Overath)",
+        "start_timestamp": null,
+        "extent": "50.97292039490866,7.527172406437941,50.97318396037785,7.473932617120029",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.58561202579512,
+          50.839518441669505
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2025-052506--vi-fbm.2025-11-14_22-00-00-000.devi-zus.2025-11-07_22-00-00-000.de1",
+        "title": "A4 | Kirchheimer Dreieck - Bad Hersfeld",
+        "subtitle": " Bad Hersfeld -> Erfurt",
+        "description": "Zeitraum dieser Bauphase: Beginn: 14.11.25 um 22:00 Uhr Ende: 16.11.25 um 14:00 Uhr (Ende der Gesamtmaßnahme: 16.11.25)  A4: Bad Hersfeld -> Erfurt, zwischen AD Kirchheimer Dreieck und 0.3 km vor AS Bad Hersfeld  Länge: konnte nicht ermittelt werden  A4 von Bad Hersfeld (AS) Beseitigung Unfallfolgen",
+        "start_timestamp": "2025-11-14T22:00:00+01:00",
+        "extent": "50.839518441669505,9.58561202579512,50.853359813326925,9.718396114358564",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.756643416347547,
+          51.20348309670339
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2025-052125--vi-fbm.2025-11-23_06-30-00-000.devi-zus.2025-11-23_06-30-00-000.de1",
+        "title": "A4 | Am Wacheberg - Görlitz",
+        "subtitle": " Dresden -> Görlitz",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 23.11.25 von 06:30 bis 19:00 Uhr (Ende der Gesamtmaßnahme: 23.11.25)  A4: Dresden -> Görlitz, zwischen 5.4 km hinter Am Wacheberg und 4.6 km vor AS Görlitz  Länge: konnte nicht ermittelt werden  A4o - Tunnel Königshainer Berge - 224-25",
+        "start_timestamp": null,
+        "extent": "51.20348309670339,14.756643416347547,51.22253396389205,14.912867789439952",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.912907622802905,
+          51.222638448707706
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2025-052125--vi-fbm.2025-11-23_06-30-00-000.devi-zus.2025-11-23_06-30-00-000.de2",
+        "title": "A4 | Görlitz - Am Wacheberg",
+        "subtitle": " Görlitz -> Dresden",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 23.11.25 von 06:30 bis 19:00 Uhr (Ende der Gesamtmaßnahme: 23.11.25)  A4: Görlitz -> Dresden, zwischen 4.6 km hinter AS Görlitz und 5.4 km vor Am Wacheberg  Länge: konnte nicht ermittelt werden  A4o - Tunnel Königshainer Berge - 224-25",
+        "start_timestamp": null,
+        "extent": "51.222638448707706,14.912907622802905,51.20359348240778,14.75666968198474",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.525288878191292,
+          50.97398928043513
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2025-054433--vi-fbm.2025-11-10_20-00-00-000.devi-zus.2025-11-10_20-00-00-000_003.de2",
+        "title": "A4 FB.-San. (AM Overath)",
+        "subtitle": " AS Gummersbach (aus Richtung Morkepütz)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 10.11.25 20:00 bis zum 11.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 11.11.25)  Auffahrt auf die A4: AS Gummersbach (aus Richtung Morkepütz)  Länge: konnte nicht ermittelt werden  A4 FB.-San. (AM Overath)",
+        "start_timestamp": null,
+        "extent": "50.97398928043513,7.525288878191292,50.973004639722014,7.522534802669609",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.176427967725521,
+          50.956092452161606
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2023-002045--vi-fbm.2025-11-10_19-00-00-000.devi-zus.2023-07-27_09-00-00-000.f_001.de310",
+        "title": "FB-Sanierung K-Merheim - Untereschbach",
+        "subtitle": " AS Bergisch Gladbach-Bensberg (aus Richtung Bergisch Gladbach-Frankenforst)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 10.11.25 19:00 bis zum 11.11.25 05:00 Uhr. 11.11.25 19:00 bis zum 12.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 26.11.25)  Auffahrt auf die A4: AS Bergisch Gladbach-Bensberg (aus Richtung Bergisch Gladbach-Frankenforst)  Länge: konnte nicht ermittelt werden  FB-Sanierung K-Merheim - Untereschbach",
+        "start_timestamp": null,
+        "extent": "50.956092452161606,7.176427967725521,50.955863672052104,7.174640340853551",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.172764542156452,
+          50.955481820143156
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2023-002045--vi-fbm.2025-11-10_19-00-00-000.devi-zus.2023-07-27_09-00-00-000.f_001.de309",
+        "title": "FB-Sanierung K-Merheim - Untereschbach",
+        "subtitle": " AS Bergisch Gladbach-Bensberg (aus Richtung Bergisch Gladbach-Frankenforst)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 10.11.25 19:00 bis zum 11.11.25 05:00 Uhr. 11.11.25 19:00 bis zum 12.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 26.11.25)  Abfahrt von der A4: AS Bergisch Gladbach-Bensberg (aus Richtung Bergisch Gladbach-Frankenforst)  Länge: konnte nicht ermittelt werden  FB-Sanierung K-Merheim - Untereschbach",
+        "start_timestamp": null,
+        "extent": "50.955481820143156,7.172764542156452,50.955767163942895,7.176352481526252",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.128070204423682,
+          50.94929613000698
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2023-002045--vi-fbm.2025-11-10_19-00-00-000.devi-zus.2023-07-27_09-00-00-000.f_001.de308",
+        "title": "FB-Sanierung K-Merheim - Untereschbach",
+        "subtitle": " AS Bergisch Gladbach-Frankenforst (aus Richtung Lustheide)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 10.11.25 19:00 bis zum 11.11.25 05:00 Uhr. 11.11.25 19:00 bis zum 12.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 26.11.25)  Auffahrt auf die A4: AS Bergisch Gladbach-Frankenforst (aus Richtung Lustheide)  Länge: konnte nicht ermittelt werden  FB-Sanierung K-Merheim - Untereschbach",
+        "start_timestamp": null,
+        "extent": "50.94929613000698,7.128070204423682,50.94933493304175,7.130478601508021",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.129626195908728,
+          50.95000900290468
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2023-002045--vi-fbm.2025-11-10_19-00-00-000.devi-zus.2023-07-27_09-00-00-000.f_001.de307",
+        "title": "FB-Sanierung K-Merheim - Untereschbach",
+        "subtitle": " AS Bergisch Gladbach-Frankenforst (aus Richtung Lustheide)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 10.11.25 19:00 bis zum 11.11.25 05:00 Uhr. 11.11.25 19:00 bis zum 12.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 26.11.25)  Abfahrt von der A4: AS Bergisch Gladbach-Frankenforst (aus Richtung Lustheide)  Länge: konnte nicht ermittelt werden  FB-Sanierung K-Merheim - Untereschbach",
+        "start_timestamp": null,
+        "extent": "50.95000900290468,7.129626195908728,50.94929859107671,7.128522415754038",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.096550538342683,
+          50.94804157114004
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2023-002045--vi-fbm.2025-11-10_19-00-00-000.devi-zus.2023-07-27_09-00-00-000.f_001.de306",
+        "title": "FB-Sanierung K-Merheim - Untereschbach",
+        "subtitle": " AS Bergisch Gladbach-Refrath (aus Richtung Köln-Merheim)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 10.11.25 19:00 bis zum 11.11.25 05:00 Uhr. 11.11.25 19:00 bis zum 12.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 26.11.25)  Auffahrt auf die A4: AS Bergisch Gladbach-Refrath (aus Richtung Köln-Merheim)  Länge: konnte nicht ermittelt werden  FB-Sanierung K-Merheim - Untereschbach",
+        "start_timestamp": null,
+        "extent": "50.94804157114004,7.096550538342683,50.94739694880694,7.09902013502297",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.095783423578668,
+          50.9491146360431
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2023-002045--vi-fbm.2025-11-10_19-00-00-000.devi-zus.2023-07-27_09-00-00-000.f_001.de305",
+        "title": "FB-Sanierung K-Merheim - Untereschbach",
+        "subtitle": "",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 10.11.25 19:00 bis zum 11.11.25 05:00 Uhr. 11.11.25 19:00 bis zum 12.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 26.11.25)  Auffahrt auf die B55 (Olpener Straße)  Länge: konnte nicht ermittelt werden  FB-Sanierung K-Merheim - Untereschbach",
+        "start_timestamp": null,
+        "extent": "50.9491146360431,7.095783423578668,50.94851183594067,7.096579182550667",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.129626195908728,
+          50.95000900290468
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2023-002045--vi-fbm.2025-09-25_22-00-00-000.devi-zus.2023-07-27_09-00-00-000.f_001.de298",
+        "title": "FB-Sanierung K-Merheim - Untereschbach",
+        "subtitle": " AS Bergisch Gladbach-Frankenforst (aus Richtung Lustheide)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 25.09.25 um 22:00 Uhr Ende: 10.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 26.11.25)  Abfahrt von der A4: AS Bergisch Gladbach-Frankenforst (aus Richtung Lustheide)  Länge: konnte nicht ermittelt werden  FB-Sanierung K-Merheim - Untereschbach",
+        "start_timestamp": "2025-09-25T22:00:00+02:00",
+        "extent": "50.95000900290468,7.129626195908728,50.949187668729714,7.12876427166849",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.015972522185897,
+          50.91471536672878
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2023-000237--vi-fbm.2025-11-14_21-00-00-000.devi-zus.2023-10-17_19-00-00-000.f_001.de235",
+        "title": "Neubau BW Rather Str.",
+        "subtitle": " Heerlen/Aachen -> Köln",
+        "description": "Zeitraum dieser Bauphase: Beginn: 14.11.25 um 21:00 Uhr Ende: 17.11.25 um 05:00 Uhr (Ende der Gesamtmaßnahme: 31.01.26)  Von A4: Heerlen/Aachen -> Köln, zwischen 1.0 km hinter AS Köln-Poll und AK Köln-Gremberg nach Abfahrt von der A4: AK Köln-Gremberg (aus Richtung Köln-Poll)  Länge: konnte nicht ermittelt werden  Neubau BW Rather Str.",
+        "start_timestamp": "2025-11-14T21:00:00+01:00",
+        "extent": "50.91471536672878,7.015972522185897,50.91449051339821,7.028621518102261",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.90941794590954,
+          51.22362926327035
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2025-052125--vi-fbm.2025-11-23_06-30-00-000.devi-zus.2025-11-23_06-30-00-000.de4",
+        "title": "A4o - Tunnel Königshainer Berge - 224-25",
+        "subtitle": " AS Kodersdorf (aus Richtung Görlitz) nach A4",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 23.11.25 von 06:30 bis 19:00 Uhr (Ende der Gesamtmaßnahme: 23.11.25)  Von Auffahrt auf die A4: AS Kodersdorf (aus Richtung Görlitz) nach A4: Görlitz -> Dresden, zwischen AS Görlitz und 2.5 km vor Wiesaer Forst  Länge: konnte nicht ermittelt werden  A4o - Tunnel Königshainer Berge - 224-25",
+        "start_timestamp": null,
+        "extent": "51.22362926327035,14.90941794590954,51.22323998397392,14.907283444681104",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7597138960466,
+          51.20203288162662
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2025-052125--vi-fbm.2025-11-23_06-30-00-000.devi-zus.2025-11-23_06-30-00-000.de3",
+        "title": "A4o - Tunnel Königshainer Berge - 224-25",
+        "subtitle": " AS Nieder Seifersdorf (aus Richtung Am Wacheberg) nach A4",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 23.11.25 von 06:30 bis 19:00 Uhr (Ende der Gesamtmaßnahme: 23.11.25)  Von Auffahrt auf die A4: AS Nieder Seifersdorf (aus Richtung Am Wacheberg) nach A4: Dresden -> Görlitz, zwischen AS Nieder Seifersdorf und 5.0 km vor Königshainer Berge  Länge: konnte nicht ermittelt werden  A4o - Tunnel Königshainer Berge - 224-25",
+        "start_timestamp": null,
+        "extent": "51.20203288162662,14.7597138960466,51.20315835582655,14.76514870114394",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.836637090063035,
+          50.98833765734651
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "closure_id": "2025-054767--vi-fbm.2025-11-11_22-00-00-000.devi-bs.2025-11-11_22-00-00-000.de0",
+        "title": "A4 - Sonstiges - AkD 54767",
+        "subtitle": " AK Olpe-Süd (aus Richtung Eckenhagen)",
+        "description": "Die Baustelle ist zu folgenden Zeiträumen gültig: 11.11.25 22:00 bis zum 12.11.25 05:00 Uhr. 12.11.25 22:00 bis zum 13.11.25 05:00 Uhr. 13.11.25 22:00 bis zum 14.11.25 05:00 Uhr. 18.11.25 22:00 bis zum 19.11.25 05:00 Uhr. 19.11.25 22:00 bis zum 20.11.25 05:00 Uhr. (Ende der Gesamtmaßnahme: 20.11.25)  Abfahrt von der A4: AK Olpe-Süd (aus Richtung Eckenhagen)  Länge: konnte nicht ermittelt werden  A4 - Sonstiges - AkD 54767",
+        "start_timestamp": null,
+        "extent": "50.98833765734651,7.836637090063035,50.987682398486896,7.836605889761298",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.53779033607511,
+          50.80965032054357
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "closure_id": "2025-016180--vi-fbm.2025-11-04_23-30-00-000.devi-zus.2025-10-25_23-30-00-000.de11",
+        "title": "A5 | Hattenbacher Dreieck - Barnholz",
+        "subtitle": " Kassel -> Frankfurt",
+        "description": "Zeitraum dieser Bauphase: Beginn: 04.11.25 um 23:30 Uhr Ende: 22.11.25 um 23:00 Uhr (Ende der Gesamtmaßnahme: 02.05.26)  A5: Kassel -> Frankfurt, zwischen 0.4 km hinter AD Hattenbacher Dreieck und 2.2 km vor Barnholz  Länge: konnte nicht ermittelt werden  A7 Erneuerung an der Decke__AS Kirchheim -- AS Hattenbacher Dreieck",
+        "start_timestamp": "2025-11-04T23:30:00+01:00",
+        "extent": "50.80965032054357,9.53779033607511,50.80753642128864,9.525935502011889",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.589899508614522,
+          50.13354002016003
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "closure_id": "2023-000361--vi-fbm.2025-10-01_15-30-00-000.devi-zus.2025-03-01_09-30-00-000.f_001.de18",
+        "title": "A5 Instandsetzung Nordwestkreuzbauwerke und GE zw. Nordwest und Westkreuz",
+        "subtitle": " AK Nordwestkreuz Frankfurt am Main (aus Richtung Taunusblick)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 01.10.25 um 15:30 Uhr Ende: 12.12.25 um 15:30 Uhr (Ende der Gesamtmaßnahme: 30.11.28)  Abfahrt von der A5: AK Nordwestkreuz Frankfurt am Main (aus Richtung Taunusblick)  Länge: konnte nicht ermittelt werden  A5 Instandsetzung Nordwestkreuzbauwerke und GE zw. Nordwest und Westkreuz",
+        "start_timestamp": "2025-10-01T15:30:00+02:00",
+        "extent": "50.13354002016003,8.589899508614522,50.13443741392488,8.588643367259966",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.648510683439811,
+          50.203163328235725
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "closure_id": "2024-035141--vi-fbm.2025-11-07_22-00-00-000.devi-zus.2025-04-15_09-30-00-000.f_001.de17",
+        "title": "A661 DE zw. AS Bad Homburg und Oberursel-Nord",
+        "subtitle": " AK Bad Homburger Kreuz (aus Richtung Spießwald)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 22:00 Uhr Ende: 10.11.25 um 04:00 Uhr (Ende der Gesamtmaßnahme: 10.11.25)  Abfahrt von der A5: AK Bad Homburger Kreuz (aus Richtung Spießwald)  Länge: konnte nicht ermittelt werden  A661 DE zw. AS Bad Homburg und Oberursel-Nord",
+        "start_timestamp": "2025-11-07T22:00:00+01:00",
+        "extent": "50.203163328235725,8.648510683439811,50.202385029124,8.643190159897982",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64628481083949,
+          50.20126814499053
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "closure_id": "2024-035141--vi-fbm.2025-11-07_22-00-00-000.devi-zus.2025-04-15_09-30-00-000.f_001.de16",
+        "title": "A661 DE zw. AS Bad Homburg und Oberursel-Nord",
+        "subtitle": " AK Bad Homburger Kreuz (aus Richtung Frankfurt am Main-Nieder-Eschbach)",
+        "description": "Zeitraum dieser Bauphase: Beginn: 07.11.25 um 22:00 Uhr Ende: 10.11.25 um 04:00 Uhr (Ende der Gesamtmaßnahme: 10.11.25)  Auffahrt auf die A661: AK Bad Homburger Kreuz (aus Richtung Frankfurt am Main-Nieder-Eschbach)  Länge: konnte nicht ermittelt werden  A661 DE zw. AS Bad Homburg und Oberursel-Nord",
+        "start_timestamp": "2025-11-07T22:00:00+01:00",
+        "extent": "50.20126814499053,8.64628481083949,50.20011675904351,8.647478014392503",
+        "direction": null
+      }
+    }
+  ]
+}

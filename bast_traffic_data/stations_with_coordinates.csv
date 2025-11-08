@@ -1,0 +1,7 @@
+station_id,station_name,road,road_number,latitude,longitude,state
+A1-001,Köln-West,A1,1,50.9375,6.9603,Nordrhein-Westfalen
+A2-001,Berlin-West,A2,2,52.52,13.405,Berlin
+A3-001,Frankfurt-Main,A3,3,50.1109,8.6821,Hessen
+A7-001,Hamburg-Süd,A7,7,53.5511,9.9937,Hamburg
+A9-001,München-Nord,A9,9,48.1351,11.582,Bayern
+B1-001,Magdeburg,B1,1,52.1205,11.6276,Sachsen-Anhalt

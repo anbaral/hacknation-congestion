@@ -1,0 +1,30 @@
+{
+  "timestamp": "20251108_183803",
+  "collection_date": "2025-11-08T18:38:06.676670",
+  "data_sources": [
+    "Autobahn GmbH API",
+    "BASt (Bundesanstalt für Straßenwesen)"
+  ],
+  "files_created": [
+    "bast_realtime_traffic/charging_stations_20251108_183803.csv",
+    "bast_realtime_traffic/traffic_warnings_20251108_183803.csv",
+    "bast_realtime_traffic/roadworks_20251108_183803.csv",
+    "bast_realtime_traffic/road_closures_20251108_183803.json",
+    "bast_realtime_traffic/roadworks_20251108_183803.geojson",
+    "bast_realtime_traffic/roadworks_20251108_183803.json",
+    "bast_realtime_traffic/traffic_warnings_20251108_183803.json",
+    "bast_realtime_traffic/parking_areas_20251108_183803.geojson",
+    "bast_realtime_traffic/road_closures_20251108_183803.geojson",
+    "bast_realtime_traffic/charging_stations_20251108_183803.geojson",
+    "bast_realtime_traffic/traffic_warnings_20251108_183803.geojson",
+    "bast_realtime_traffic/parking_areas_20251108_183803.csv",
+    "bast_realtime_traffic/road_closures_20251108_183803.csv",
+    "bast_realtime_traffic/parking_areas_20251108_183803.json",
+    "bast_realtime_traffic/charging_stations_20251108_183803.json"
+  ],
+  "charging_stations_20251108_183803_count": 155,
+  "traffic_warnings_20251108_183803_count": 12,
+  "roadworks_20251108_183803_count": 621,
+  "parking_areas_20251108_183803_count": 554,
+  "road_closures_20251108_183803_count": 95
+}

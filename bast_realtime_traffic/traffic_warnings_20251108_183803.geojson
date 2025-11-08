@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.21325324075378,
+          52.822928481479174
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "warning_id": "undefined--vi-avl.2025-11-08_23-45-30-000.f.de0",
+        "title": "A1 | Drantumer Mühle - Cappeln Hagelage-West",
+        "subtitle": " Bremen -> Osnabrück",
+        "description": "Beginn: 09.11.25 um 00:13 Uhr  Angespannte Verkehrslage, seit 09.11.2025, 00:13 A1: Bremen -> Osnabrück, zwischen 0.7 km hinter Drantumer Mühle und 3.3 km vor Cappeln Hagelage-West  Langsamer Verkehr Reisezeitverlust: 0 Minuten Durchschnittsgeschwindigkeit: 68 km/h",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-09T00:13:30+01:00",
+        "display_type": null,
+        "extent": "52.822928481479174,8.21325324075378,52.81290971955706,8.210529622698347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.34715660000013,
+          52.281487600928465
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "warning_id": "undefined--vi-hind.2025-11-09_00-13-30-000.f.de0",
+        "title": "A2 | Schafstrift Nord - Bad Nenndorf",
+        "subtitle": " Dortmund -> Hannover",
+        "description": "Beginn: 09.11.25 um 00:13 Uhr  Fahrzeug-Hindernis, seit 09.11.2025, 00:13 A2: Dortmund -> Hannover, zwischen 3.6 km hinter Schafstrift Nord und 0.1 km vor AS Bad Nenndorf Gefahr durch ein defektes Fahrzeug auf der Fahrbahn",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-09T00:13:30+01:00",
+        "display_type": null,
+        "extent": "52.281487600928465,9.34715660000013,52.333705900928116,9.407836100000157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.259703857384844,
+          52.24878948051115
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "warning_id": "undefined--vi-hind.2025-11-08_23-04-00-000.f_010.de0",
+        "title": "A2 | Ziesar - Wollin",
+        "subtitle": " Magdeburg -> Berliner Ring",
+        "description": "Beginn: 08.11.25 um 23:04 Uhr  Hindernis, seit 08.11.2025, 23:04 A2: Magdeburg -> Berliner Ring, zwischen 0.2 km hinter AS Ziesar und 0.3 km vor AS Wollin  Gefahr durch Gegenstände auf der Fahrbahn",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-08T23:04:00+01:00",
+        "display_type": null,
+        "extent": "52.24878948051115,12.259703857384844,52.28947250092887,12.458366300033878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.92935748972521,
+          49.04772133017365
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "warning_id": "undefined--vi-zus.2025-11-09_00-14-00-000.f.de0",
+        "title": "A3 | Laaber - Birkach",
+        "subtitle": " Nürnberg -> Passau",
+        "description": "Beginn: 09.11.25 um 00:14 Uhr  Zusammengesetzte Verkehrsinformation, seit 09.11.2025, 00:14 A3: Nürnberg -> Passau, zwischen 5.8 km hinter AS Laaber und 1.1 km vor Birkach  Langsamer Verkehr Reisezeitverlust: 0 Minuten Durchschnittsgeschwindigkeit: 68 km/h",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-09T00:14:00+01:00",
+        "display_type": null,
+        "extent": "49.04772133017365,11.92935748972521,49.03682715004852,11.934012682792492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.356340706901725,
+          50.63739289606017
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "warning_id": "undefined--vi-hind.2025-11-08_23-29-00-000.f_008.de0",
+        "title": "A3 | Hambitz - Bad Honnef/Linz",
+        "subtitle": " Frankfurt -> Köln",
+        "description": "Beginn: 08.11.25 um 23:29 Uhr  Hindernis, seit 08.11.2025, 23:29 A3: Frankfurt -> Köln, zwischen 0.3 km hinter Hambitz und 0.4 km vor AS Bad Honnef/Linz  Gefahr durch Personen auf der Fahrbahn",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-08T23:29:00+01:00",
+        "display_type": null,
+        "extent": "50.63739289606017,7.356340706901725,50.64761080093808,7.3335063999985275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.356340706901725,
+          50.63739289606017
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "warning_id": "undefined--vi-hind.2025-11-08_23-29-00-000.f_007.de0",
+        "title": "A3 | Hambitz - Bad Honnef/Linz",
+        "subtitle": " Frankfurt -> Köln",
+        "description": "Beginn: 08.11.25 um 23:29 Uhr  Hindernis, seit 08.11.2025, 23:29 A3: Frankfurt -> Köln, zwischen 0.3 km hinter Hambitz und 0.4 km vor AS Bad Honnef/Linz  Gefahr durch Personen auf der Fahrbahn",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-08T23:29:00+01:00",
+        "display_type": null,
+        "extent": "50.63739289606017,7.356340706901725,50.64761080093808,7.3335063999985275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.333610671790209,
+          50.647342566785944
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "warning_id": "undefined--vi-hind.2025-11-08_23-29-00-000.f_005.de0",
+        "title": "A3 | Bad Honnef/Linz - Hambitz",
+        "subtitle": " Köln -> Frankfurt",
+        "description": "Beginn: 08.11.25 um 23:29 Uhr  Hindernis, seit 08.11.2025, 23:29 A3: Köln -> Frankfurt, zwischen 0.4 km hinter AS Bad Honnef/Linz und 0.3 km vor Hambitz  Gefahr durch Personen auf der Fahrbahn",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-08T23:29:00+01:00",
+        "display_type": null,
+        "extent": "50.647342566785944,7.333610671790209,50.6372953188196,7.356075763537264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.811564943313199,
+          51.214733908892626
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "warning_id": "undefined--vi-unf.2025-11-08_21-35-30-000.f_018.de0",
+        "title": "A4 | Nieder Seifersdorf - Wiesaer Forst",
+        "subtitle": " Dresden -> Görlitz",
+        "description": "Beginn: 08.11.25 um 21:35 Uhr  Unfall, seit 08.11.2025, 21:35 A4: Dresden -> Görlitz, zwischen 3.9 km hinter AS Nieder Seifersdorf und 1.0 km vor Wiesaer Forst",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-08T21:35:30+01:00",
+        "display_type": null,
+        "extent": "51.214733908892626,14.811564943313199,51.219075582708896,14.858052999008645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.81440367440464,
+          51.214804561299616
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "warning_id": "undefined--vi-zus.2025-11-09_00-14-00-000.f_001.de0",
+        "title": "A4 | Nieder Seifersdorf - Wiesaer Forst",
+        "subtitle": " Dresden -> Görlitz",
+        "description": "Beginn: 09.11.25 um 00:14 Uhr  Zusammengesetzte Verkehrsinformation, seit 09.11.2025, 00:14 A4: Dresden -> Görlitz, zwischen 4.1 km hinter AS Nieder Seifersdorf und 0.8 km vor Wiesaer Forst  Langsamer Verkehr Reisezeitverlust: 2 Minuten Durchschnittsgeschwindigkeit: 34 km/h",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-09T00:14:00+01:00",
+        "display_type": null,
+        "extent": "51.214804561299616,14.81440367440464,51.21928578913451,14.861009754267734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.763281200521499,
+          51.20315120095767
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "warning_id": "undefined--vi-unf.2025-11-08_21-35-30-000.f_019.de0",
+        "title": "A4 | Nieder Seifersdorf - Wiesaer Forst",
+        "subtitle": " Dresden -> Görlitz",
+        "description": "Beginn: 08.11.25 um 21:35 Uhr  Unfall, seit 08.11.2025, 21:35 A4: Dresden -> Görlitz, zwischen 0.2 km hinter AS Nieder Seifersdorf und 1.0 km vor Wiesaer Forst",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-08T21:35:30+01:00",
+        "display_type": null,
+        "extent": "51.20315120095767,14.763281200521499,51.219075582708896,14.858052999008645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.803583631006683,
+          51.21366581465801
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "warning_id": "undefined--vi-unf.2025-11-09_00-09-30-000.f.de0",
+        "title": "A4 | Königshainer Berge - Nieder Seifersdorf",
+        "subtitle": " Görlitz -> Dresden",
+        "description": "Beginn: 09.11.25 um 00:09 Uhr  Unfall, seit 09.11.2025, 00:09 A4: Görlitz -> Dresden, zwischen 2.1 km hinter Königshainer Berge und 2.0 km vor AS Nieder Seifersdorf",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-09T00:09:30+01:00",
+        "display_type": null,
+        "extent": "51.21366581465801,14.803583631006683,51.2073647074288,14.787662231055407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.922576351150484,
+          51.220236538110555
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "warning_id": "undefined--vi-avl.2025-11-09_00-07-30-000.f_001.de0",
+        "title": "A4 | Görlitz - Wiesaer Forst",
+        "subtitle": " Görlitz -> Dresden",
+        "description": "Beginn: 09.11.25 um 00:07 Uhr  Angespannte Verkehrslage, seit 09.11.2025, 00:07 A4: Görlitz -> Dresden, zwischen 3.8 km hinter AS Görlitz und 2.5 km vor Wiesaer Forst  Langsamer Verkehr Reisezeitverlust: 0 Minuten Durchschnittsgeschwindigkeit: 61 km/h",
+        "is_roadworks": false,
+        "start_timestamp": "2025-11-09T00:07:30+01:00",
+        "display_type": null,
+        "extent": "51.220236538110555,14.922576351150484,51.22326896273532,14.906499577080043"
+      }
+    }
+  ]
+}

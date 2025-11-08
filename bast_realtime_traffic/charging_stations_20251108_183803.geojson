@@ -1,0 +1,2950 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.22812",
+          "51.157855"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQzMDY=",
+        "title": "A1 | Wuppertal | Remscheid Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "Wuppertal | Remscheid Ost 42859 Wermelskirchen  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "7.22812,51.157855,7.22812,51.157855",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.230556",
+          "51.158333"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY0NDU=",
+        "title": "A1 | Wuppertal | Raststätte Remscheid Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Wuppertal | Raststätte Remscheid Ost 42859 Remscheid  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.230556,51.158333,7.230556,51.158333",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.59406",
+          "51.468376"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTU1MDk=",
+        "title": "A1 | Wuppertal | Raststätte Lichtendorf Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Wuppertal | Raststätte Lichtendorf Nord 44289 Dortmund  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.59406,51.468376,7.59406,51.468376",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.499223",
+          "51.411647"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTU5NTg=",
+        "title": "A1 | Wuppertal | Raststätte Lennhof West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Wuppertal | Raststätte Lennhof West 58099 Hagen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.499223,51.411647,7.499223,51.411647",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.595449",
+          "51.468811"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTU1MTA=",
+        "title": "A1 | Wuppertal | Lichtendorf Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Wuppertal | Lichtendorf Nord 44289 Dortmund  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "7.595449,51.468811,7.595449,51.468811",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.8803255",
+          "50.0684783"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY5NTY=",
+        "title": "A1 | Trier | Raststätte Eifel West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Trier | Raststätte Eifel West 54533 Niederöffingen  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 300 kW  Ladepunkt 3: AC Kupplung Typ 2 43 kW  Ladepunkt 4: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.8803255,50.0684783,6.8803255,50.0684783",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.880212",
+          "50.068492"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY5NTg=",
+        "title": "A1 | Trier | Eifel West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Trier | Eifel West 54533 Niederöfflingen  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "6.880212,50.068492,6.880212,50.068492",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.896882",
+          "49.690177"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTczMzI=",
+        "title": "A1 | Saarbrücken | Raststätte Hochwald West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Saarbrücken | Raststätte Hochwald West 54421 Reinsfeld  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 3: DC Kupplung Combo 150 kW  Ladepunkt 4: DC Kupplung Combo, DC CHAdeMO 150 kW",
+        "extent": "6.896882,49.690177,6.896882,49.690177",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.041832",
+          "52.312502"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTE4NDM=",
+        "title": "A1 | Osnabrück | Raststätte Bentheimer Wald Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Osnabrück | Raststätte Bentheimer Wald Süd 48455 Bad Bentheim  Ladepunkt 1: DC Kupplung Combo 150 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 150 kW  Ladepunkt 3: AC Kupplung Typ 2 43 kW  Ladepunkt 4: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.041832,52.312502,7.041832,52.312502",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.594438",
+          "51.467206"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQ5NjM=",
+        "title": "A1 | Münster | Lichtendorf Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Münster | Lichtendorf Süd 58239 Schwerte  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "7.594438,51.467206,7.594438,51.467206",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.324738",
+          "53.694396"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTkzMjI=",
+        "title": "A1 | Lübeck | Raststätte Buddikate Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Lübeck | Raststätte Buddikate Ost 22965 Todendorf  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "10.324738,53.694396,10.324738,53.694396",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.75624",
+          "54.07115"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTg5MTM=",
+        "title": "A1 | Lübeck | Neustädter Bucht West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Lübeck | Neustädter Bucht West 23730 Neustadt in Holstein  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "10.75624,54.07115,10.75624,54.07115",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.322275",
+          "53.692409"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTkzMjA=",
+        "title": "A1 | Lübeck | Buddikate Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Lübeck | Buddikate Ost 22965 Todendorf  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "10.322275,53.692409,10.322275,53.692409",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.245308",
+          "51.265614"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY1MzI=",
+        "title": "A1 | Köln | Raststätte Ehrenberg West (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Köln | Raststätte Ehrenberg West (2) 42389 Wuppertal  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo 300 kW",
+        "extent": "7.245308,51.265614,7.245308,51.265614",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.245148",
+          "51.265608"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY1MzE=",
+        "title": "A1 | Köln | Raststätte Ehrenberg West (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Köln | Raststätte Ehrenberg West (1) 42389 Wuppertal  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.245148,51.265608,7.245148,51.265608",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.756057",
+          "54.068004"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTg5MTI=",
+        "title": "A1 | Heiligenhafen | Neustädter Bucht Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Heiligenhafen | Neustädter Bucht Ost 23730 Neustadt in Holstein  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "10.756057,54.068004,10.756057,54.068004",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.478865",
+          "53.81885"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTkzMzI=",
+        "title": "A1 | Hamburg | Trave West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Hamburg | Trave West 23858 Reinfeld  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "10.478865,53.81885,10.478865,53.81885",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.177057",
+          "53.088003"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI2OTg=",
+        "title": "A1 | Hamburg | Raststätte Grundbergsee Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Hamburg | Raststätte Grundbergsee Süd 27376 Sottrum  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.177057,53.088003,9.177057,53.088003",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.320428",
+          "53.692558"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTkzMjM=",
+        "title": "A1 | Hamburg | Raststätte Buddikate West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Hamburg | Raststätte Buddikate West 22965 Todendorf  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "10.320428,53.692558,10.320428,53.692558",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.53517",
+          "53.299087"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI3MTU=",
+        "title": "A1 | Hamburg | Ostetal Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Hamburg | Ostetal Süd 27419 Tiste  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "9.53517,53.299087,9.53517,53.299087",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.321402",
+          "53.693508"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTkzMjE=",
+        "title": "A1 | Hamburg | Buddikate West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Hamburg | Buddikate West 22965 Todendorf  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "10.321402,53.693508,10.321402,53.693508",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.881029",
+          "50.070167"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY5NTU=",
+        "title": "A1 | Dreieck Vulkaneifel | Raststätte Eifel Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Dreieck Vulkaneifel | Raststätte Eifel Ost 54533 Niederöffingen  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 300 kW  Ladepunkt 3: AC Kupplung Typ 2 43 kW  Ladepunkt 4: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.881029,50.070167,6.881029,50.070167",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.880905",
+          "50.070186"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY5NTc=",
+        "title": "A1 | Dreieck Vulkaneifel | Eifel Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Dreieck Vulkaneifel | Eifel Ost 54533 Niederöfflingen  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "6.880905,50.070186,6.880905,50.070186",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.8996",
+          "49.6907"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTczMzQ=",
+        "title": "A1 | Dreieck Moseltal | Raststätte Hochwald Ost (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Dreieck Moseltal | Raststätte Hochwald Ost (2) 54421 Reinsfeld  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "6.8996,49.6907,6.8996,49.6907",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.896757",
+          "49.690444"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTczMzM=",
+        "title": "A1 | Dreieck Moseltal | Raststätte Hochwald Ost (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Dreieck Moseltal | Raststätte Hochwald Ost (1) 54421 Reinsfeld  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.896757,49.690444,6.896757,49.690444",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.176298",
+          "53.090847"
+        ]
+      },
+      "properties": {
+        "autobahn": "A1",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI2OTk=",
+        "title": "A1 | Bremen | Raststätte Grundbergsee Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A1 | Bremen | Raststätte Grundbergsee Nord 27376 Sottrum  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.176298,53.090847,9.176298,53.090847",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.310008",
+          "52.250824"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fODI5NA==",
+        "title": "A2 | Potsdam | Buckautal Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Potsdam | Buckautal Süd 14793 Ziesar  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "12.310008,52.250824,12.310008,52.250824",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "11.078349",
+          "52.21576"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTg0NTU=",
+        "title": "A2 | Magdeburg | Marienborn Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Magdeburg | Marienborn Süd 39365 Sommersdorf  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "11.078349,52.21576,11.078349,52.21576",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.307421",
+          "52.252078"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fODI5Mw==",
+        "title": "A2 | Magdeburg | Buckautal Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Magdeburg | Buckautal Nord 14793 Ziesar  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "12.307421,52.252078,12.307421,52.252078",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.354579",
+          "52.340378"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTIzODE=",
+        "title": "A2 | Hannover | Raststätte Zweidorfer Holz Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Hannover | Raststätte Zweidorfer Holz Nord 38176 Wendeburg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "10.354579,52.340378,10.354579,52.340378",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.63373",
+          "52.01653"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTUzMzI=",
+        "title": "A2 | Hannover | Raststätte Lipperland Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Hannover | Raststätte Lipperland Süd 33719 Bielefeld  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.63373,52.01653,8.63373,52.01653",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.996509",
+          "52.388699"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI2MjM=",
+        "title": "A2 | Hannover | Raststätte Lehrter See Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Hannover | Raststätte Lehrter See Nord 31275 Lehrte  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.996509,52.388699,9.996509,52.388699",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.23278",
+          "52.226935"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI3NjI=",
+        "title": "A2 | Hannover | Raststätte Auetal Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Hannover | Raststätte Auetal Süd 31749 Auetal  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.23278,52.226935,9.23278,52.226935",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.232202",
+          "52.226613"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI3Njc=",
+        "title": "A2 | Hannover | Auetal Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Hannover | Auetal Süd 31749 Auetal  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "9.232202,52.226613,9.232202,52.226613",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.665289",
+          "52.071952"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTM3NDE=",
+        "title": "A2 | Dortmund | Raststätte Lipperland Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Dortmund | Raststätte Lipperland Nord 32107 Bad Salzuflen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.665289,52.071952,8.665289,52.071952",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.369598",
+          "51.866322"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTMzNDE=",
+        "title": "A2 | Dortmund | Raststätte Gütersloh Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Dortmund | Raststätte Gütersloh Nord 33334 Güthersloh  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.369598,51.866322,8.369598,51.866322",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.88743",
+          "51.539838"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTU0Mzk=",
+        "title": "A2 | Dortmund | Raststätte Bottrop Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Dortmund | Raststätte Bottrop Süd 46242 Bottrop  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.88743,51.539838,6.88743,51.539838",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.359787",
+          "52.33838"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTIzODI=",
+        "title": "A2 | Braunschweig | Raststätte Zweidorfer Holz Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Braunschweig | Raststätte Zweidorfer Holz Süd 38176 Wendeburg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "10.359787,52.33838,10.359787,52.33838",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.998724",
+          "52.386537"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI2MjQ=",
+        "title": "A2 | Braunschweig | Raststätte Lehrter See Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Braunschweig | Raststätte Lehrter See Süd 31275 Lehrte  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.998724,52.386537,9.998724,52.386537",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.072179",
+          "51.790705"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTUxNDg=",
+        "title": "A2 | Bielefeld | Raststätte Vellern (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Bielefeld | Raststätte Vellern (2) 59269 Beckum  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "8.072179,51.790705,8.072179,51.790705",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.074054",
+          "51.79108"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTUxNDc=",
+        "title": "A2 | Bielefeld | Raststätte Vellern (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Bielefeld | Raststätte Vellern (1) 59269 Beckum  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.074054,51.79108,8.074054,51.79108",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.872821",
+          "51.629715"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTU5ODQ=",
+        "title": "A2 | Bielefeld | Raststätte Rhynern Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Bielefeld | Raststätte Rhynern Süd 59069 Hamm  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.872821,51.629715,7.872821,51.629715",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.5321",
+          "51.9298"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTUzMjQ=",
+        "title": "A2 | Bielefeld | Raststätte Obergassel",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Bielefeld | Raststätte Obergassel 33689 Bielefeld  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.5321,51.9298,8.5321,51.9298",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.37",
+          "51.865"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTMzNDI=",
+        "title": "A2 | Bielefeld | Raststätte Gütersloh Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Bielefeld | Raststätte Gütersloh Süd 33334 Güthersloh  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.37,51.865,8.37,51.865",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.55072",
+          "52.422367"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI1ODE=",
+        "title": "A2 | Bielefeld | Raststätte Garbsen Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Bielefeld | Raststätte Garbsen Nord 30823 Garbsen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.55072,52.422367,9.55072,52.422367",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.221553",
+          "52.223838"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI3NjM=",
+        "title": "A2 | Bielefeld | Raststätte Auetal Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Bielefeld | Raststätte Auetal Nord 31749 Auetal  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.221553,52.223838,9.221553,52.223838",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.222077",
+          "52.223649"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI3NjY=",
+        "title": "A2 | Bielefeld | Auetal Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | Bielefeld | Auetal Nord 31749 Auetal  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "9.222077,52.223649,9.222077,52.223649",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.83229",
+          "52.41916"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI1Nzc=",
+        "title": "A2 | AS Hannover-Lahe | Rendsburger Straße 1",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | AS Hannover-Lahe | Rendsburger Straße 1 30659 Hannover  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 2: AC Kupplung Typ 2 43 kW",
+        "extent": "9.83229,52.41916,9.83229,52.41916",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.296646",
+          "54.219657"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTg3NDM=",
+        "title": "A2 | AS Hannover-Lahe | Rendsburger Str. 51",
+        "subtitle": "Normalladeeinrichtung",
+        "description": "A2 | AS Hannover-Lahe | Rendsburger Str. 51 25782 Tellingstedt  Ladepunkt 1: AC Steckdose Typ 2 22 kW  Ladepunkt 2: AC Steckdose Typ 2 22 kW",
+        "extent": "9.296646,54.219657,9.296646,54.219657",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.83591",
+          "52.42354"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI2MDU=",
+        "title": "A2 | AS Hannover-Lahe | Opelstraße 3-5 (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A2 | AS Hannover-Lahe | Opelstraße 3-5 (2) 30916 Altwarmbüchen  Ladepunkt 1: AC Kupplung Typ 2 22 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.83591,52.42354,9.83591,52.42354",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.83591",
+          "52.42354"
+        ]
+      },
+      "properties": {
+        "autobahn": "A2",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTI2MDQ=",
+        "title": "A2 | AS Hannover-Lahe | Opelstraße 3-5 (1)",
+        "subtitle": "Normalladeeinrichtung",
+        "description": "A2 | AS Hannover-Lahe | Opelstraße 3-5 (1) 30916 Altwarmbüchen  Ladepunkt 1: AC Steckdose Typ 2 22 kW  Ladepunkt 2: AC Steckdose Typ 2 22 kW",
+        "extent": "9.83591,52.42354,9.83591,52.42354",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.891473",
+          "51.326157"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTM5MjM=",
+        "title": "A3 | Duisburg | Raststätte Hösel Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "Duisburg | Raststätte Hösel Ost 40883 Ratingen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.891473,51.326157,6.891473,51.326157",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.907371",
+          "50.055212"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTAxODc=",
+        "title": "A3 | Würzburg | Weiskirchen Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Würzburg | Weiskirchen Süd 63110 Rodgau  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "8.907371,50.055212,8.907371,50.055212",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.906421",
+          "50.055416"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTAxNjg=",
+        "title": "A3 | Würzburg | Raststätte Weiskirchen Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Würzburg | Raststätte Weiskirchen Süd 63110 Rodgau  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.906421,50.055416,8.906421,50.055416",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.244809",
+          "49.781101"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNTcxMQ==",
+        "title": "A3 | Würzburg | Raststätte Haidt Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Würzburg | Raststätte Haidt Nord 97355 Kleinlangheim  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "10.244809,49.781101,10.244809,49.781101",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.244797",
+          "49.780852"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNTcxMg==",
+        "title": "A3 | Würzburg | Haidt Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Würzburg | Haidt Nord 97355 Kleinlangheim  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "10.244797,49.780852,10.244797,49.780852",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.930265",
+          "49.580101"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMzM5MA==",
+        "title": "A3 | Würzburg | Aurach Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Würzburg | Aurach Nord 91056 Erlangen  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 2: AC Kupplung Typ 2 43 kW",
+        "extent": "10.930265,49.580101,10.930265,49.580101",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.67526",
+          "50.522865"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTczNzc=",
+        "title": "A3 | Wiesbaden | Raststätte Sessenhausen West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Wiesbaden | Raststätte Sessenhausen West 56422 Sessenhausen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.67526,50.522865,7.67526,50.522865",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.873155",
+          "50.454372"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTczNzM=",
+        "title": "A3 | Wiesbaden | Raststätte Heiligenroth West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Wiesbaden | Raststätte Heiligenroth West 56412 Heiligenroth  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 3: DC Kupplung Combo 300 kW  Ladepunkt 4: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "7.873155,50.454372,7.873155,50.454372",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.747577",
+          "51.636509"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTUyNDE=",
+        "title": "A3 | Richtung Niederlande | Raststätte Hünxe Ost (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Richtung Niederlande | Raststätte Hünxe Ost (2) 46569 Hünxe  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "6.747577,51.636509,6.747577,51.636509",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.746968",
+          "51.636934"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTUyMzg=",
+        "title": "A3 | Richtung Niederlande | Raststätte Hünxe Ost (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Richtung Niederlande | Raststätte Hünxe Ost (1) 46569 Hünxe  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.746968,51.636934,6.746968,51.636934",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.36671",
+          "48.58854"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNDM2Mw==",
+        "title": "A3 | Regensburg | Raststätte Donautal Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Regensburg | Raststätte Donautal Ost 94036 Passau  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "13.36671,48.58854,13.36671,48.58854",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "11.60003",
+          "49.272286"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNjIxNQ==",
+        "title": "A3 | Regensburg | Jura West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Regensburg | Jura West 92355 Velburg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "11.60003,49.272286,11.60003,49.272286",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.366",
+          "48.588"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNDM3Nw==",
+        "title": "A3 | Regensburg | Donautal Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Regensburg | Donautal Ost 94036 Passau  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "13.366,48.588,13.366,48.588",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.70785",
+          "48.931488"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNzAzOQ==",
+        "title": "A3 | Regensburg | Bayerischer Wald Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Regensburg | Bayerischer Wald Nord 94336 Hunderdorf  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "12.70785,48.931488,12.70785,48.931488",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.365255",
+          "48.589296"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNDM2Mg==",
+        "title": "A3 | Passau | Raststätte Donautal West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Passau | Raststätte Donautal West 94036 Passau  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "13.365255,48.589296,13.365255,48.589296",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.366",
+          "48.59"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNDM3OA==",
+        "title": "A3 | Passau | Donautal West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Passau | Donautal West 94036 Passau  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "13.366,48.59,13.366,48.59",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.705783",
+          "48.931372"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNzA0MA==",
+        "title": "A3 | Passau | Bayerischer Wald Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Passau | Bayerischer Wald Süd 94336 Hunderdorf  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "12.705783,48.931372,12.705783,48.931372",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "11.602249",
+          "49.270847"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNjIxNA==",
+        "title": "A3 | Nürnberg | Jura Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Nürnberg | Jura Ost 92355 Velburg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "11.602249,49.270847,11.602249,49.270847",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.246493",
+          "49.779352"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNTcxMw==",
+        "title": "A3 | Nürnberg | Haidt Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Nürnberg | Haidt Süd 97355 Kleinlangheim  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "10.246493,49.779352,10.246493,49.779352",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.927852",
+          "49.580281"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMzM5MQ==",
+        "title": "A3 | Nürnberg | Aurach Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Nürnberg | Aurach Süd 91056 Erlangen  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 2: AC Kupplung Typ 2 43 kW",
+        "extent": "10.927852,49.580281,10.927852,49.580281",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.220042",
+          "50.809373"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQ0NzY=",
+        "title": "A3 | Köln | Raststätte Siegburg Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Köln | Raststätte Siegburg Ost 53721 Siegburg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.220042,50.809373,7.220042,50.809373",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.961858",
+          "51.157821"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY0OTI=",
+        "title": "A3 | Köln | Raststätte Ohligser Heide West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Köln | Raststätte Ohligser Heide West 42967 Solingen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.961858,51.157821,6.961858,51.157821",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.928153",
+          "50.423135"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTczNzQ=",
+        "title": "A3 | Köln | Raststätte Nentershausen Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Köln | Raststätte Nentershausen Ost 56412 Nentershausen  Ladepunkt 1: AC Kupplung Typ 2, DC CHAdeMO 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 3: DC Kupplung Combo 300 kW  Ladepunkt 4: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "7.928153,50.423135,7.928153,50.423135",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.850348",
+          "50.447712"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTczNjQ=",
+        "title": "A3 | Köln | Raststätte Montabaur Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Köln | Raststätte Montabaur Ost 56410 Montabaur  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 3: DC Kupplung Combo 300 kW  Ladepunkt 4: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "7.850348,50.447712,7.850348,50.447712",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.077496",
+          "50.396011"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTk1Mw==",
+        "title": "A3 | Köln | Raststätte Limburg Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Köln | Raststätte Limburg Ost 65549 Limburg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.077496,50.396011,8.077496,50.396011",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.67514",
+          "50.522947"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTczNjM=",
+        "title": "A3 | Köln | Raststätte Landsberg an der Warthe (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Köln | Raststätte Landsberg an der Warthe (2) 56244 Sessenhausen  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "7.67514,50.522947,7.67514,50.522947",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.695711",
+          "50.521421"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTczNjI=",
+        "title": "A3 | Köln | Raststätte Landsberg an der Warthe (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Köln | Raststätte Landsberg an der Warthe (1) 56244 Sessenhausen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.695711,50.521421,7.695711,50.521421",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.962202",
+          "51.157481"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY0NzQ=",
+        "title": "A3 | Köln | Ohligser Heide West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Köln | Ohligser Heide West 42697 Solingen  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "6.962202,51.157481,6.962202,51.157481",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.353607",
+          "50.095807"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTQzMw==",
+        "title": "A3 | Köln | Medenbach Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Köln | Medenbach Ost 65207 Wiesbaden  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.353607,50.095807,8.353607,50.095807",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.909382",
+          "50.055744"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTAxNjc=",
+        "title": "A3 | Frankfurt am Main | Weiskirchen Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Frankfurt am Main | Weiskirchen Nord 63110 Rodgau  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.909382,50.055744,8.909382,50.055744",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.394346",
+          "49.898302"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNDc5OA==",
+        "title": "A3 | Frankfurt am Main | Spessart Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Frankfurt am Main | Spessart Nord 63879 Weibersbrunn  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "9.394346,49.898302,9.394346,49.898302",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.394154",
+          "49.898294"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fNDc5Nw==",
+        "title": "A3 | Frankfurt am Main | Raststätte Spessart Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Frankfurt am Main | Raststätte Spessart Nord 63879 Weibersbrunn  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.394154,49.898294,9.394154,49.898294",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.15189",
+          "50.898194"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQzNDA=",
+        "title": "A3 | Frankfurt am Main | Raststätte Königsforst West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Frankfurt am Main | Raststätte Königsforst West 51503 Rösrath  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.15189,50.898194,7.15189,50.898194",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.351742",
+          "50.096305"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTQzNA==",
+        "title": "A3 | Frankfurt am Main | Medenbach West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Frankfurt am Main | Medenbach West 65207 Wiesbaden  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.351742,50.096305,8.351742,50.096305",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.432143",
+          "50.600003"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTcxNjg=",
+        "title": "A3 | Frankfurt am Main | Fernthal West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Frankfurt am Main | Fernthal West 53577 Neustadt/Wied  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 2: AC Kupplung Typ 2 43 kW",
+        "extent": "7.432143,50.600003,7.432143,50.600003",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.234861",
+          "50.300794"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTkzNg==",
+        "title": "A3 | Frankfurt am Main | Bad Camberg West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Frankfurt am Main | Bad Camberg West 65520 Bad Camberg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.234861,50.300794,8.234861,50.300794",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.963889",
+          "51.1575"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY0OTE=",
+        "title": "A3 | Duisburg |Raststätte Ohligser Heide Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Duisburg |Raststätte Ohligser Heide Ost 42967 Solingen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.963889,51.1575,6.963889,51.1575",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.152222",
+          "50.899444"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQzMzk=",
+        "title": "A3 | Duisburg | Raststätte Königsforst Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Duisburg | Raststätte Königsforst Ost 51503 Rösrath  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.152222,50.899444,7.152222,50.899444",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.744913",
+          "51.635293"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTUyNDA=",
+        "title": "A3 | Duisburg | Raststätte Hünxe West (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Duisburg | Raststätte Hünxe West (2) 46569 Hünxe  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "6.744913,51.635293,6.744913,51.635293",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.744846",
+          "51.635664"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTUyMzk=",
+        "title": "A3 | Duisburg | Raststätte Hünxe West (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Duisburg | Raststätte Hünxe West (1) 46569 Hünxe  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.744846,51.635664,6.744846,51.635664",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.963942",
+          "51.157162"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY0NzM=",
+        "title": "A3 | Duisburg | Ohligser Heide Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Duisburg | Ohligser Heide Ost 42697 Solingen  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "6.963942,51.157162,6.963942,51.157162",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.584985",
+          "50.548215"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTcxNzA=",
+        "title": "A3 | Bonn | Raststätte Urbacher Wald Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A3 | Bonn | Raststätte Urbacher Wald Ost 56307 Dernbach  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.584985,50.548215,7.584985,50.548215",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.897487",
+          "50.055283"
+        ]
+      },
+      "properties": {
+        "autobahn": "A3",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTAxNzI=",
+        "title": "A3 | AS Hanau | Liebigstraße 7",
+        "subtitle": "Normalladeeinrichtung",
+        "description": "A3 | AS Hanau | Liebigstraße 7 63110 Rodgau  Ladepunkt 1: AC Steckdose Typ 2 22 kW  Ladepunkt 2: AC Steckdose Typ 2 22 kW",
+        "extent": "8.897487,50.055283,8.897487,50.055283",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.778011",
+          "50.928338"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQyNzA=",
+        "title": "A4 | Köln | Raststätte Frechen Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "Köln | Raststätte Frechen Süd 50226 Frechen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "6.778011,50.928338,6.778011,50.928338",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.320669",
+          "50.951804"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQzMzA=",
+        "title": "A4 | Siegen | Raststätte Aggertal Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Siegen | Raststätte Aggertal Süd 51491 Overath  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.320669,50.951804,7.320669,50.951804",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.320656",
+          "50.951946"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQzMzI=",
+        "title": "A4 | Siegen | Aggertal Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Siegen | Aggertal Süd 51491 Overath  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "7.320656,50.951946,7.320656,50.951946",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.3217962",
+          "50.951687"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQzMjk=",
+        "title": "A4 | Köln | Raststätte Aggertal Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Köln | Raststätte Aggertal Nord 51491 Overath  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "7.3217962,50.951687,7.3217962,50.951687",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.3180289",
+          "50.9516664"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQzMzE=",
+        "title": "A4 | Köln | Aggertal Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Köln | Aggertal Nord 51491 Overath  Ladepunkt 1: DC Kupplung Combo 300 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 300 kW",
+        "extent": "7.3180289,50.9516664,7.3180289,50.9516664",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.215741",
+          "50.816865"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQ4MTU=",
+        "title": "A4 | Köln | Aachener Land Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Köln | Aachener Land Süd 52249 Eschweiler  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "6.215741,50.816865,6.215741,50.816865",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "11.808342",
+          "50.877326"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTk3NDM=",
+        "title": "A4 | Erfurt | Teufelstal Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Erfurt | Teufelstal Nord 07646 Bollberg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "11.808342,50.877326,11.808342,50.877326",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.30796",
+          "50.86087"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTk1OTU=",
+        "title": "A4 | Erfurt | Raststätte Altenburger Land Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Erfurt | Raststätte Altenburger Land Nord 04626 Schmölln  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "12.30796,50.86087,12.30796,50.86087",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.307977",
+          "50.860662"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTk1OTc=",
+        "title": "A4 | Erfurt | Altenburger Land Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Erfurt | Altenburger Land Nord 04626 Schmölln  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "12.307977,50.860662,12.307977,50.860662",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "11.195412",
+          "50.949944"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTk4NjI=",
+        "title": "A4 | Eisenach | Raststätte Eichelborn Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Eisenach | Raststätte Eichelborn Nord 99198 Mönchenholzhausen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "11.195412,50.949944,11.195412,50.949944",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.589792",
+          "50.911392"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTk2NDI=",
+        "title": "A4 | Eisenach | Hörselgau Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Eisenach | Hörselgau Nord 99880 Hörsel  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "10.589792,50.911392,10.589792,50.911392",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.331987",
+          "51.199484"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTc4ODM=",
+        "title": "A4 | Dresden | Oberlausitz Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Dresden | Oberlausitz Nord 02625 Bautzen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "14.331987,51.199484,14.331987,51.199484",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.570146",
+          "51.063326"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTgwODA=",
+        "title": "A4 | Dresden | Dresdener Tor Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Dresden | Dresdener Tor Süd 01723 Wilsdruff  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "13.570146,51.063326,13.570146,51.063326",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "11.809307",
+          "50.875901"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTk3NDQ=",
+        "title": "A4 | Chemnitz | Teufelstal Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Chemnitz | Teufelstal Süd 07646 Bollberg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "11.809307,50.875901,11.809307,50.875901",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "11.196774",
+          "50.948001"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTk4NjM=",
+        "title": "A4 | Chemnitz | Raststätte Eichelborn Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Chemnitz | Raststätte Eichelborn Süd 99198 Mönchenholzhausen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "11.196774,50.948001,11.196774,50.948001",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.313048",
+          "50.856608"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTk1OTQ=",
+        "title": "A4 | Chemnitz | Raststätte Altenburger Land Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Chemnitz | Raststätte Altenburger Land Süd 04626 Schmölln  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "12.313048,50.856608,12.313048,50.856608",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.570146",
+          "51.063326"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTgwODE=",
+        "title": "A4 | Chemnitz | Dresdener Tor Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Chemnitz | Dresdener Tor Nord 01723 Wilsdruff  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "13.570146,51.063326,13.570146,51.063326",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.938842",
+          "50.892978"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTgxMDM=",
+        "title": "A4 | Chemnitz | Auerswalder Blick Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Chemnitz | Auerswalder Blick Nord 09244 Lichtenau  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "12.938842,50.892978,12.938842,50.892978",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.3132",
+          "50.85675"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTk1OTg=",
+        "title": "A4 | Chemnitz | Altenburger Land Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Chemnitz | Altenburger Land Süd 04626 Schmölln  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "12.3132,50.85675,12.3132,50.85675",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.328689",
+          "51.198549"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTc4ODQ=",
+        "title": "A4 | Bautzen | Oberlausitz Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Bautzen | Oberlausitz Süd 02625 Bautzen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "14.328689,51.198549,14.328689,51.198549",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.215",
+          "50.818"
+        ]
+      },
+      "properties": {
+        "autobahn": "A4",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTQ4MTQ=",
+        "title": "A4 | Aachen | Aachener Land Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A4 | Aachen | Aachener Land Nord 52249 Eschweiler  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "6.215,50.818,6.215,50.818",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.721949",
+          "47.970762"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMzgw",
+        "title": "A5 | Freiburg | Breisgau Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "Freiburg | Breisgau Ost 79227 Schallstadt  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 2: AC Kupplung Typ 2 42 kW",
+        "extent": "7.721949,47.970762,7.721949,47.970762",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.603219",
+          "49.689416"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTQ0OA==",
+        "title": "A5 | Darmstadt | Bergstraße Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "Darmstadt | Bergstraße Ost 64625 Bensheim  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.603219,49.689416,8.603219,49.689416",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.60305",
+          "47.58989"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTMyNA==",
+        "title": "A5 | Weil am Rhein | Hardstraße 4",
+        "subtitle": "Normalladeeinrichtung",
+        "description": "A5 | Weil am Rhein | Hardstraße 4 79576 Weil am Rhein  Ladepunkt 1: AC Steckdose Typ 2, AC Schuko 22 kW  Ladepunkt 2: AC Steckdose Typ 2 22 kW",
+        "extent": "7.60305,47.58989,7.60305,47.58989",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.60372",
+          "47.594401"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTMyMA==",
+        "title": "A5 | Weil am Rhein | Basel Weil",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Weil am Rhein | Basel Weil 79576 Weil am Rhein  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo 50 kW",
+        "extent": "7.60372,47.594401,7.60372,47.594401",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.7915649",
+          "48.308982"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTcwMg==",
+        "title": "A5 | Offenburg | Raststätte Mahlberg Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Offenburg | Raststätte Mahlberg Ost 77972 Mahlberg  Ladepunkt 1: DC Kupplung Combo 150 kW  Ladepunkt 2: DC Kupplung Combo 75 kW  Ladepunkt 3: AC Kupplung Typ 2 43 kW  Ladepunkt 4: DC Kupplung Combo 50 kW",
+        "extent": "7.7915649,48.308982,7.7915649,48.308982",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.791519",
+          "48.308819"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTcwNA==",
+        "title": "A5 | Offenburg | Mahlberg Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Offenburg | Mahlberg Ost 77972 Mahlberg  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "7.791519,48.308819,7.791519,48.308819",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.181381",
+          "48.808931"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMjY3NQ==",
+        "title": "A5 | Offenburg | Baden-Baden West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Offenburg | Baden-Baden West 76532 Baden-Baden  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.181381,48.808931,8.181381,48.808931",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.567019",
+          "49.1609927"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTIxMQ==",
+        "title": "A5 | Karlsruhe | Raststätte Bruchsal West (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Karlsruhe | Raststätte Bruchsal West (2) 76694 Forst  Ladepunkt 1: DC Kupplung Combo 150 kW  Ladepunkt 2: DC Kupplung Combo 75 kW",
+        "extent": "8.567019,49.1609927,8.567019,49.1609927",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.567015",
+          "49.160998"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTIwOA==",
+        "title": "A5 | Karlsruhe | Raststätte Bruchsal West (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Karlsruhe | Raststätte Bruchsal West (1) 76694 Forst  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo 50 kW",
+        "extent": "8.567015,49.160998,8.567015,49.160998",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.1317",
+          "48.753498"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTg0Ng==",
+        "title": "A5 | Karlsruhe | Bühl Ost (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Karlsruhe | Bühl Ost (2) 77815 Bühl  Ladepunkt 1: DC Kupplung Combo 150 kW  Ladepunkt 2: DC Kupplung Combo 75 kW",
+        "extent": "8.1317,48.753498,8.1317,48.753498",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.131493",
+          "48.753434"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTg0NQ==",
+        "title": "A5 | Karlsruhe | Bühl Ost (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Karlsruhe | Bühl Ost (1) 77815 Bühl  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo 50 kW",
+        "extent": "8.131493,48.753434,8.131493,48.753434",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.567226",
+          "49.16125"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTIxMw==",
+        "title": "A5 | Karlsruhe | Bruchsal West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Karlsruhe | Bruchsal West 76694 Forst  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "8.567226,49.16125,8.567226,49.16125",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.570962",
+          "49.162909"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTIxMA==",
+        "title": "A5 | Heidelberg | Raststätte Bruchsal Ost (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Heidelberg | Raststätte Bruchsal Ost (2) 76694 Forst  Ladepunkt 1: DC Kupplung Combo 150 kW  Ladepunkt 2: DC Kupplung Combo 75 kW",
+        "extent": "8.570962,49.162909,8.570962,49.162909",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.570877",
+          "49.162905"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTIwOQ==",
+        "title": "A5 | Heidelberg | Raststätte Bruchsal Ost (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Heidelberg | Raststätte Bruchsal Ost (1) 76694 Forst  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo 50 kW",
+        "extent": "8.570877,49.162905,8.570877,49.162905",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.570788",
+          "49.162694"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTIxMg==",
+        "title": "A5 | Heidelberg | Bruchsal Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Heidelberg | Bruchsal Ost 76694 Forst  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "8.570788,49.162694,8.570788,49.162694",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.591679",
+          "49.746893"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTU1Ng==",
+        "title": "A5 | Heidelberg | Alsbach West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Heidelberg | Alsbach West 64665 Alsbach  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 2: AC Kupplung Typ 2 42 kW",
+        "extent": "8.591679,49.746893,8.591679,49.746893",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.896404",
+          "50.622672"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTY2Mg==",
+        "title": "A5 | Hattenbacher Dreieck | Reinhardshain Süd",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Hattenbacher Dreieck | Reinhardshain Süd 35305 Grünberg  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "8.896404,50.622672,8.896404,50.622672",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.69456",
+          "50.35566"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTA0Njg=",
+        "title": "A5 | Gießen | Wetterau Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Gießen | Wetterau Ost 61239 Ober-Mörlen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.69456,50.35566,8.69456,50.35566",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.357694",
+          "50.759834"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTAzNTE=",
+        "title": "A5 | Gießen | Raststätte Berfa Nord",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Gießen | Raststätte Berfa Nord 36304 Alsfeld  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "9.357694,50.759834,9.357694,50.759834",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.473105",
+          "50.793156"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTc3NA==",
+        "title": "A5 | Gießen | Rasthaus Rimberg",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Gießen | Rasthaus Rimberg 36287 Breitenbach am Herzberg  Ladepunkt 1: AC Kupplung Typ 2 50 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 43 kW",
+        "extent": "9.473105,50.793156,9.473105,50.793156",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.9559225",
+          "48.563031"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY2Nw==",
+        "title": "A5 | Freiburg | Raststätte Renchtal West (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Freiburg | Raststätte Renchtal West (2) 77767 Appenweier  Ladepunkt 1: DC Kupplung Combo 150 kW  Ladepunkt 2: DC Kupplung Combo 75 kW",
+        "extent": "7.9559225,48.563031,7.9559225,48.563031",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.955847",
+          "48.563052"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY2NA==",
+        "title": "A5 | Freiburg | Raststätte Renchtal West (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Freiburg | Raststätte Renchtal West (1) 77767 Appenweier  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo 50 kW",
+        "extent": "7.955847,48.563052,7.955847,48.563052",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.788862",
+          "48.309678"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTcwMw==",
+        "title": "A5 | Freiburg | Raststätte Mahlberg West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Freiburg | Raststätte Mahlberg West 77972 Mahlberg  Ladepunkt 1: DC Kupplung Combo 150 kW  Ladepunkt 2: DC Kupplung Combo 75 kW  Ladepunkt 3: AC Kupplung Typ 2 43 kW  Ladepunkt 4: DC Kupplung Combo 50 kW",
+        "extent": "7.788862,48.309678,7.788862,48.309678",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.788855",
+          "48.309517"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTcwNQ==",
+        "title": "A5 | Freiburg | Mahlberg West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Freiburg | Mahlberg West 77972 Mahlberg  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "7.788855,48.309517,7.788855,48.309517",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.69412",
+          "50.35754"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTA0Njk=",
+        "title": "A5 | Frankfurt am Main | Wetterau West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Frankfurt am Main | Wetterau West 61239 Ober-Mörlen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.69412,50.35754,8.69412,50.35754",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.894967",
+          "50.623593"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTY2MQ==",
+        "title": "A5 | Frankfurt am Main | Reinhardshain Nord (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Frankfurt am Main | Reinhardshain Nord (2) 35305 Grünberg  Ladepunkt 1: DC Kupplung Combo 350 kW  Ladepunkt 2: DC Kupplung Combo 350 kW  Ladepunkt 3: DC Kupplung Combo 350 kW  Ladepunkt 4: DC Kupplung Combo 350 kW",
+        "extent": "8.894967,50.623593,8.894967,50.623593",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.894967",
+          "50.623593"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTY1OA==",
+        "title": "A5 | Frankfurt am Main | Reinhardshain Nord (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Frankfurt am Main | Reinhardshain Nord (1) 35305 Grünberg  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.894967,50.623593,8.894967,50.623593",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.75529",
+          "50.520453"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTY4Ng==",
+        "title": "A5 | Frankfurt am Main | Limes West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Frankfurt am Main | Limes West 35415 Pohlheim  Ladepunkt 1: AC Kupplung Typ 2 50 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 43 kW",
+        "extent": "8.75529,50.520453,8.75529,50.520453",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.610717",
+          "49.946113"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTUyMA==",
+        "title": "A5 | Frankfurt am Main | Gräfenhausen Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Frankfurt am Main | Gräfenhausen Ost 64331 Weiterstadt  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.610717,49.946113,8.610717,49.946113",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.632238",
+          "49.350934"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMjE4MA==",
+        "title": "A5 | Darmstadt | Raststätte Hardtwald Ost",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Darmstadt | Raststätte Hardtwald Ost 69207 Sandhausen  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo 50 kW",
+        "extent": "8.632238,49.350934,8.632238,49.350934",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.606043",
+          "49.687297"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTQ0MA==",
+        "title": "A5 | Darmstadt | Raststätte Bergstraße Ost",
+        "subtitle": "Normalladeeinrichtung",
+        "description": "A5 | Darmstadt | Raststätte Bergstraße Ost 64625 Bensheim  Ladepunkt 1: AC Steckdose Typ 2 4 kW",
+        "extent": "8.606043,49.687297,8.606043,49.687297",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.609489",
+          "49.94694"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTUyMQ==",
+        "title": "A5 | Darmstadt | Gräfenhausen West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Darmstadt | Gräfenhausen West 64331 Weiterstadt  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.609489,49.94694,8.609489,49.94694",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.810907",
+          "48.050002"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMjY5NA==",
+        "title": "A5 | Basel | Schauinsland West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Basel | Schauinsland West 79108 Freiburg  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 2: AC Kupplung Typ 2 42 kW",
+        "extent": "7.810907,48.050002,7.810907,48.050002",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.551272",
+          "47.737703"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTMwMQ==",
+        "title": "A5 | Basel | Bad Bellingen West",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Basel | Bad Bellingen West 79415 Bad Bellingen  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 50 kW  Ladepunkt 2: AC Kupplung Typ 2 43 kW",
+        "extent": "7.551272,47.737703,7.551272,47.737703",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.9591637",
+          "48.5628685"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY2Ng==",
+        "title": "A5 | Baden-Baden | Raststätte Renchtal Ost (2)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Baden-Baden | Raststätte Renchtal Ost (2) 77767 Appenweier  Ladepunkt 1: DC Kupplung Combo 150 kW  Ladepunkt 2: DC Kupplung Combo 75 kW",
+        "extent": "7.9591637,48.5628685,7.9591637,48.5628685",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.958827",
+          "48.562448"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTY2NQ==",
+        "title": "A5 | Baden-Baden | Raststätte Renchtal Ost (1)",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | Baden-Baden | Raststätte Renchtal Ost (1) 77767 Appenweier  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo 50 kW",
+        "extent": "7.958827,48.562448,7.958827,48.562448",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.608342",
+          "49.902832"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTUyMw==",
+        "title": "A5 | AS Weiterstadt | Rudolf-Diesel-Straße 26a",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | AS Weiterstadt | Rudolf-Diesel-Straße 26a 64331 Weiterstadt  Ladepunkt 1: AC Kupplung Typ 2 43 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 50 kW",
+        "extent": "8.608342,49.902832,8.608342,49.902832",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.607509",
+          "49.901342"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fOTUyNA==",
+        "title": "A5 | AS Weiterstadt | Rudolf-Diesel-Straße 26",
+        "subtitle": "Normalladeeinrichtung",
+        "description": "A5 | AS Weiterstadt | Rudolf-Diesel-Straße 26 64331 Weiterstadt  Ladepunkt 1: AC Steckdose Typ 2 22 kW  Ladepunkt 2: AC Steckdose Typ 2 22 kW",
+        "extent": "8.607509,49.901342,8.607509,49.901342",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.592565",
+          "47.909055"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMzk3",
+        "title": "A5 | AS Hertheim/Heitersheim | Autohof Bremgarten",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | AS Hertheim/Heitersheim | Autohof Bremgarten 79258 Hartheim-Bremgarten  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 350 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 350 kW  Ladepunkt 3: DC Kupplung Combo, DC CHAdeMO 350 kW  Ladepunkt 4: DC Kupplung Combo, DC CHAdeMO 350 kW",
+        "extent": "7.592565,47.909055,7.592565,47.909055",
+        "direction": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.24163",
+          "50.734167"
+        ]
+      },
+      "properties": {
+        "autobahn": "A5",
+        "station_id": "RUxFQ1RSSUNfQ0hBUkdJTkdfU1RBVElPTl9fMTAzNTI=",
+        "title": "A5 | AS Asfeld-West | Autohof Pfefferhöhe",
+        "subtitle": "Schnellladeeinrichtung",
+        "description": "A5 | AS Asfeld-West | Autohof Pfefferhöhe 36304 Alsfeld  Ladepunkt 1: DC Kupplung Combo, DC CHAdeMO 175 kW  Ladepunkt 2: DC Kupplung Combo, DC CHAdeMO 175 kW  Ladepunkt 3: DC Kupplung Combo, DC CHAdeMO 175 kW",
+        "extent": "9.24163,50.734167,9.24163,50.734167",
+        "direction": null
+      }
+    }
+  ]
+}

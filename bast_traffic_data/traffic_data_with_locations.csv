@@ -1,0 +1,7 @@
+station_id,station_name,road,latitude,longitude,state,date,total_vehicles,cars,trucks,buses,motorcycles
+A1-001,Köln-West,A1,50.9375,6.9603,Nordrhein-Westfalen,2025-11-01,26165,19623,5233,784,523
+A2-001,Berlin-West,A2,52.52,13.405,Berlin,2025-11-01,24543,18407,4908,736,490
+A3-001,Frankfurt-Main,A3,50.1109,8.6821,Hessen,2025-11-01,25251,18938,5050,757,505
+A7-001,Hamburg-Süd,A7,53.5511,9.9937,Hamburg,2025-11-01,25831,19373,5166,774,516
+A9-001,München-Nord,A9,48.1351,11.582,Bayern,2025-11-01,29873,22404,5974,896,597
+B1-001,Magdeburg,B1,52.1205,11.6276,Sachsen-Anhalt,2025-11-01,23543,17657,4708,706,470
