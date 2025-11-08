@@ -1,0 +1,62 @@
+{
+  "total_warnings": 50,
+  "highways_affected": 25,
+  "warnings_per_highway": {
+    "A7": 5,
+    "A4": 5,
+    "A81": 4,
+    "A44": 3,
+    "A9": 3,
+    "A650": 3,
+    "A8": 2,
+    "A3": 2,
+    "A12": 2,
+    "A113": 2,
+    "A100": 2,
+    "A45": 2,
+    "A49": 2,
+    "A60": 2,
+    "A255": 1,
+    "A115": 1,
+    "A93": 1,
+    "A59": 1,
+    "A67": 1,
+    "A5": 1,
+    "A2": 1,
+    "A38": 1,
+    "A20": 1,
+    "A10": 1,
+    "A1": 1
+  },
+  "severity_distribution": {
+    "1": 48,
+    "3": 2
+  },
+  "critical_warnings": 0,
+  "accidents": 8,
+  "roadworks": 0,
+  "congestions": 6,
+  "hourly_distribution": {
+    "0": 35,
+    "7": 2,
+    "8": 1,
+    "9": 1,
+    "13": 1,
+    "17": 2,
+    "20": 1,
+    "21": 2,
+    "22": 1,
+    "23": 4
+  },
+  "daily_distribution": {
+    "Sunday": 34,
+    "Saturday": 11,
+    "Tuesday": 3,
+    "Friday": 1,
+    "Wednesday": 1
+  },
+  "warnings_with_coordinates": 50,
+  "coordinate_coverage_percent": 100.0,
+  "collection_timestamp": "2025-11-08T18:51:02.309557",
+  "data_source": "Autobahn GmbH API"
+}
